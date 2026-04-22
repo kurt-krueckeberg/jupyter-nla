@@ -16,6 +16,17 @@ project:
   github: https://github.com/kurt-krueckeberg/jupyter-nla
   # To autogenerate a table of contents, run "jupyter book init --write-toc"
   toc:
+  - file: ROOT/index.md
+
+  - title: Other Documents
+    children:
+      - file: other/doc1.md
+      - file: other/doc2.md
+
+  - title: Rentkammer Documents
+    children:
+      - file: rentkammer/doc1.md
+      - file: rentkammer/doc2.md
 #  exports:
 #    - format: pdf
 #      template: lapreprint-typst
