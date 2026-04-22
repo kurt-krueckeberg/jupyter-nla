@@ -33,11 +33,11 @@ felled and sold by the forestry office
 ## Images
 
 ```{image} images/05-right-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/06-left-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -5,7 +5,7 @@
 ## Petition Docket Page
 
 ```{image} images/29-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation of Outer Address Page
@@ -37,15 +37,15 @@
 ### Image
 
 ```{image} images/27-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/28-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/28-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

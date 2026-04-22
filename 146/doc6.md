@@ -138,7 +138,7 @@ transformation in status,
 ## Image
 
 ```{image} images/07-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

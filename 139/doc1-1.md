@@ -24,11 +24,11 @@ of her holding.
 ## Images of Petition of the widow Krückeberg
 
 ```{image} images/02.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/03-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation
@@ -101,7 +101,7 @@ The report of the Bückeburg local government office appears on the left side of
 petition of the widow Krückeberg.
 
 ```{image} images/02-left-side-of-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Translation and Transliteration
@@ -180,7 +180,7 @@ request in the Amt report.
 ### Transliteration and Translation
 
 ```{image} images/03-left-side-of-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration
@@ -239,7 +239,7 @@ same **N.C. 2816** and **N.P. 602** identifiers to the entire page.
 ### Rought Draft of the Official Reply to the Widow Krückeberg (4 Aug. 1824)
 
 ```{image} images/03-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table}

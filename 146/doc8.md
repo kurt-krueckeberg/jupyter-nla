@@ -22,7 +22,7 @@ The difference is:
 ## Image
 
 ```{image} images/10-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

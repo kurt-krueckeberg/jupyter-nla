@@ -27,15 +27,15 @@ Amt official Höcker.
 ## Transliteration and Translation
 
 ```{image} images/08-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/09-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/09-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{code-block} text
@@ -161,7 +161,7 @@ Mark of + + + of Wilhelm
 ## Cover Note to the Document
 
 ```{image} images/10-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

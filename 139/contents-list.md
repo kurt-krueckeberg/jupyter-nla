@@ -18,7 +18,7 @@ as a petition, reports, draft replies, and the final resolution—but is
 treated by the authorities as one coherent administrative unit.
 
 ```{image} images/01.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{note}

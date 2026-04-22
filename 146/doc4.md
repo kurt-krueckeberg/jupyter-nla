@@ -8,7 +8,7 @@ forester Falkmann" mean?
 ## Image
 
 ```{image} images/05-r-alternate.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliateration and Translation

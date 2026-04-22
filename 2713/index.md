@@ -14,7 +14,7 @@ On page 110 Berenbusch and Johann Heinrich Krückeberg are mentioned.
 ## Image of page 110 Concerning Johann Heinrich Krückeberg’s Holding
 
 ```{image} images/2713-24.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

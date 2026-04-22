@@ -18,7 +18,7 @@ earlier.](doc4.md)
 ## Transliteration and Translation
 
 ```{image} images/08-right-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration of Diagram Text

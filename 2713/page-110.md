@@ -3,7 +3,7 @@
 ## Image of page 110
 
 ```{image} images/2713-24.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -39,11 +39,11 @@ reliqui"**, which means he had the same conditions as all the others.
 ## Images of Johann Heinrich Krückeberg’s Recorded Answers
 
 ```{image} images/2741-1.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/2741-2.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table}

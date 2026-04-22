@@ -13,7 +13,7 @@ three lines of text) and on the top right of the image.
 ## Image
 
 ```{image} images/03-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -74,7 +74,7 @@ petition of Colon Krückeberg, herewith returned.”
 ## Case File Subject Slip
 
 ```{image} images/08-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

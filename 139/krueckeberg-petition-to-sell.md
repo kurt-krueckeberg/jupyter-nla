@@ -17,7 +17,7 @@ be collected and remitted.
 ## Image
 
 ```{image} images/07-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation
@@ -88,7 +88,7 @@ Barkhausen.
 ## Cover Note
 
 ```{image} images/10-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration

@@ -3,15 +3,15 @@
 ## Petition
 
 ```{image} images/31-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/32-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/31-r-vert-text.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

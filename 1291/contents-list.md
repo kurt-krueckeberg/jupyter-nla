@@ -7,11 +7,11 @@ third column.
 ## Digital Images
 
 ```{image} images/01-r.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/02-l.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Designation Actorum

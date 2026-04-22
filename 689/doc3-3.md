@@ -11,7 +11,7 @@ Berenbusch”, showing that a copy of the decision was dispatched to him.
 ## Image
 
 ```{image} images/10-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -1,7 +1,7 @@
 # Service of the Decree (Bescheid) — 27 July 1841 (re
 
 ```{image} images/07-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

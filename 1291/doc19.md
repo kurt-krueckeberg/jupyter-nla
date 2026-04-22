@@ -3,15 +3,15 @@
 ## Purchase Contract
 
 ```{image} images/34-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/35-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/35-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

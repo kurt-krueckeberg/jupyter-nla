@@ -11,7 +11,7 @@ office.
 ## Image
 
 ```{image} images/cover-top.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

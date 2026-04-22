@@ -38,7 +38,7 @@ this number written in the upper right corner of the first page. This first docu
 of the Bückeburg Office); in the upper right corner of its first page,](../689/amt-decree.md)**2** is written:
 
 ```{image} ../689/images/example-entry-num-on-doc.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Numbering Systems of the Rentkammer in Schaumburg-Lippe (Mid-19th Century)
@@ -52,7 +52,7 @@ Each number served a distinct bureaucratic purpose and helps reconstruct the flo
 ### The “Nr pr. ####” Numbers — Protocol / Register Numbers
 
 ```{image} ../689/images/nr-pr.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 - **Definition**: The entry number in the Rentkammer’s **Protokollbuch** (protocol book), a line-by-line ledger
@@ -70,7 +70,7 @@ was logged in the protocol book.
 ### The “NC ####” Numbers
 
 ```{image} ../689/images/nc-xxxx.jpg
-:class: antora-self-link
+:class: image-override
 ```
 
 The **NC  ####** numbers appear in the upper left corner of the first page
@@ -111,6 +111,6 @@ later follow-up document to an earlier one.  In the image below, for example,
 Rentcammer document numbered 5702".
 
 ```{image} ../689/images/ad-nc.jpg
-:class: antora-self-link
+:class: image-override
 ```
 

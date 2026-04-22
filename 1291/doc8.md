@@ -3,15 +3,15 @@
 ## Digital Images
 
 ```{image} images/14-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/15-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/15-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Translation and Transliteration

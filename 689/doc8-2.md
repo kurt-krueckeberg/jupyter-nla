@@ -3,11 +3,11 @@
 ## Images
 
 ```{image} images/19-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/19-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table}

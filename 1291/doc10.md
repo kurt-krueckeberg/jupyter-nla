@@ -3,7 +3,7 @@
 ## Petition Docket Page
 
 ```{image} images/20-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation
@@ -41,19 +41,19 @@ Princely Rent Chamber
 ## Petition of Vogt
 
 ```{image} images/17-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/18-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/19-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/18-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

@@ -3,7 +3,7 @@
 ## The Designatio Actorum (Table of Contents)
 
 ```{image} images/01.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ### Transliteration and Translation

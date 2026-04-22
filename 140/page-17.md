@@ -21,7 +21,7 @@ into possession of no. 10 Berenbusch through marriage.
 ## Image
 
 ```{image} images/page-17.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

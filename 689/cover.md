@@ -1,7 +1,7 @@
 # Case File Cover
 
 ```{image} images/cover-orig.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table}

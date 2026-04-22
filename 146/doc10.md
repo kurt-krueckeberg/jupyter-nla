@@ -3,7 +3,7 @@
 ## Image
 
 ```{image} images/12-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

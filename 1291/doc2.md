@@ -3,7 +3,7 @@
 ## Digital Image
 
 ```{image} images/03-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation
@@ -75,7 +75,7 @@ MKaas
 ## Digital Image of Rentkammer Response
 
 ```{image} images/03-r-horz-text.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation
@@ -111,7 +111,7 @@ T Landesberg
 ## Document 2 Enclosure: Report of Chief Forester Falkmann
 
 ```{image} images/04-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translatin
@@ -160,7 +160,7 @@ Falckmann
 ## Document 2 Enclosure: Survey Drawing
 
 ```{image} images/05-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

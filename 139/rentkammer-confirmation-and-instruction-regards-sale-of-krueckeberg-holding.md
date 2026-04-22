@@ -20,11 +20,11 @@ September 1849 and signed by Spreng and other clerical officials.
 ## Transliteration and Translation
 
 ```{image} images/06-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/06-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

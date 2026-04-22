@@ -3,7 +3,7 @@
 ## Digital Image
 
 ```{image} images/13-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Tramsliteration and Translation

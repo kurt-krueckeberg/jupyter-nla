@@ -18,19 +18,19 @@ submitted to the Princely Rent Chamber for final approval.
 ## Images
 
 ```{image} images/22-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/23-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/23-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/24-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

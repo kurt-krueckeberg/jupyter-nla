@@ -3,11 +3,11 @@
 ## Image
 
 ```{image} images/17-r-alternate.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/17-r-small-text.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

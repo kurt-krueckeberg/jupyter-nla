@@ -17,7 +17,7 @@ They are to inform Jobst Heinrich of these conditions and terms.
 ## Image of Document 3
 
 ```{image} images/04-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliateration and Translation

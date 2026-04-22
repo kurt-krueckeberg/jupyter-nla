@@ -3,7 +3,7 @@
 ## Petition Docket Page
 
 ```{image} images/10-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation
@@ -39,15 +39,15 @@
 ## Document 5
 
 ```{image} images/08-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/09-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/08-r-vert-text.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

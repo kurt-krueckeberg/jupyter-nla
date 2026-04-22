@@ -3,7 +3,7 @@
 ## Chancery resolution
 
 ```{image} images/30-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Outer Address Page

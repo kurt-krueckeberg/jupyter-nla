@@ -36,11 +36,11 @@ Windt, and Wippermann**.  It was dispatched by **Beÿer**.
 ## Images
 
 ```{image} images/11.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/12.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

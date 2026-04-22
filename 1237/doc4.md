@@ -74,7 +74,7 @@ Michaelmas (Michaeli) = Feast of Saint Michael the Archangel, celebrated on 29 S
 ## Image of Document 4
 
 ```{image} images/06-right-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

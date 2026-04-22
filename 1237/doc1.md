@@ -3,7 +3,7 @@
 ## Petition Docket Item
 
 ```{image} images/05-left-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation
@@ -60,11 +60,11 @@ the "Res Cam" was initialed by him.
 ## Petition
 
 ```{image} images/02.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/03-left-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation
@@ -195,7 +195,7 @@ order and any enclosures (such as the Forestry Report) are not preserved;
 only this short reference and the Amt’s subsequent [Report on the matter (Document No. 2) remain.](doc2.md)
 
 ```{image} images/02-admin-note.png
-:class: antora-self-link
+:class: image-override
 ```
 
 Translation

@@ -3,7 +3,7 @@
 ## Chamber Treausry Recept
 
 ```{image} images/33-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation of Outer Address Page

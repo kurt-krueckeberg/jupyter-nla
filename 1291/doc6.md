@@ -3,15 +3,15 @@
 ## Digital Images
 
 ```{image} images/12-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/13-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/12-r-vert-text.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Summary

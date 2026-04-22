@@ -3,23 +3,23 @@
 ## Images
 
 ```{image} images/12-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/13-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/13-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/14-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/14-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

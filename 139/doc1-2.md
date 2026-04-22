@@ -10,7 +10,7 @@ office appears.
 ## Image of Report from Bückeburg Office
 
 ```{image} images/02-left-side-of-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Translation and Transliteration
@@ -89,7 +89,7 @@ request in the Amt report.
 ### Transliteration and Translation
 
 ```{image} images/03-left-side-of-page.png
-:class: antora-self-link
+:class: image-override
 ```
 
 Transliteration

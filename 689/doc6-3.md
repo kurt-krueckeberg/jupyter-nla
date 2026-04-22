@@ -3,15 +3,15 @@
 ## Images
 
 ```{image} images/16-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/16-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/17-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table}

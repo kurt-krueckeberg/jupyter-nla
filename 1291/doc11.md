@@ -3,19 +3,19 @@
 ## Digital Image
 
 ```{image} images/21-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/22-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/21-r-vert-text.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/23-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{list-table} Definitions of Map Terms
@@ -40,7 +40,7 @@
 ```
 
 ```{image} images/23-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration

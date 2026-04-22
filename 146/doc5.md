@@ -8,7 +8,7 @@ document 4?
 ## Image
 
 ```{image} images/06-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliateration and Translation

@@ -1,7 +1,7 @@
 # Image 2
 
 ```{image} images/002.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

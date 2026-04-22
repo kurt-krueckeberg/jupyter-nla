@@ -21,7 +21,7 @@ that it covers only the year 1747.
 ## Image of Title Page
 
 ```{image} images/title-140.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

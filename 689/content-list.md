@@ -5,7 +5,7 @@ of the overall decision making process is under consideration. The 2nd column de
 column is a note on the subject of the doucment(s); lastly comes the place, year, month and day
 
 ```{image} images/01-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration

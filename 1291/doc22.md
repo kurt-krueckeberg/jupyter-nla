@@ -3,15 +3,15 @@
 ## Concluded purchase contract for new settler Brüggemann No. 13 at Nordholz
 
 ```{image} images/39-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/40-l.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ```{image} images/40-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation

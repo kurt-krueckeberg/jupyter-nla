@@ -21,7 +21,7 @@ The report is signed Sander at Bückeburg on 7 August 1824.
 ## Image of Report from the Bückeburg Office
 
 ```{image} images/04-r.png
-:class: antora-self-link
+:class: image-override
 ```
 
 ## Transliteration and Translation
