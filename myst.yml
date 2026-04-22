@@ -171,9 +171,9 @@ site:
   #   favicon: favicon.ico
   #   logo: site_logo.png
   template: ../myst-theme/.deploy/book/template.yml
-# actions:
-#   - title: Krückeberg Genealogy
-#     url: http://localhost:8000 
+  actions:
+    - title: Bückeburg Archive Research
+      url: https://nla.krueckeberg.org 
   options:
     logo: _static/nla-documents-myst-style-light.svg
     logo_dark: _static/nla-documents-myst-style-dark.svg
