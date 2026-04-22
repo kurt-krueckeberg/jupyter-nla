@@ -123,15 +123,15 @@ project:
               - file: 139/doc1-5.md
               - file: 139/doc2.md
 
-        - title: 1849 Documents (Concerning Later Sale of Stätte No. 10)
-          children:
-            - file: 139/krueckeberg-petition-to-sell.md
-            - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md
-            - file: 139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding.md
-            - file: 139/actum-bueckeburg-amt-21-aug-1849.md
-            - file: 139/amt-report-22-aug-1849.md
-            - file: 139/petition-to-sell-his-holding-23-aug-1849.md
-            - file: 139/sales-contract-for-no-10.md
+          - title: 1849 Documents (Concerning Later Sale of Stätte No. 10)
+            children:
+              - file: 139/krueckeberg-petition-to-sell.md
+              - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md
+              - file: 139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding.md
+              - file: 139/actum-bueckeburg-amt-21-aug-1849.md
+              - file: 139/amt-report-22-aug-1849.md
+              - file: 139/petition-to-sell-his-holding-23-aug-1849.md
+              - file: 139/sales-contract-for-no-10.md
 
       - file: 689/index.md
         children: 
