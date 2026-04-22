@@ -1,0 +1,36 @@
+@media (min-width: 1280px) {
+  main.article-grid > article.article-grid > :not(.lg\:col-margin-right) {
+    grid-column: body / page;
+  }
+
+  main.article-grid > article.article-grid > .lg\:col-margin-right {
+    grid-column: page-end / screen-end;
+    margin-left: 1rem !important;
+  }
+
+  main.article-grid > article.article-grid > .lg\:col-margin-right .myst-outline {
+    max-width: 18rem;
+  }
+}
+
+/* creates a shadow-obrder for images and allows a hook for
+ * 'display-image.js' */
+img.image-override,
+.image-override img {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.20);
+  border-radius: 4px;
+  background: white;
+  padding: 6px;
+  max-width: 100%;
+  height: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  img.image-override,
+  .image-override img {
+    box-shadow:
+      0 0 0 1px rgba(255, 255, 255, 0.10),
+      0 6px 16px rgba(0, 0, 0, 0.55);
+    background: #1f1f1f;
+  }
+}

@@ -1,0 +1,16 @@
+# Contents List
+
+## Image
+
+```{image} images/01-r.png
+:class: antora-self-link
+```
+
+## Transliteration and Translation
+
+<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
+
+```{raw} html
+<div data-include-html="_table-artifacts/contents-list-table-01.html"></div>
+```
+
