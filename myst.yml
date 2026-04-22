@@ -112,7 +112,7 @@ project:
 
       - file: 139/index.md
         children:
-          - file: 139/;cover.md
+          - file: 139/cover.md
           - file: 139/narr-timeline.md
           - file: 139/contents-list.md
             children:
@@ -161,7 +161,7 @@ project:
       - file: 188/index.md
         children:
           - file: 188/cover.md
-          - file: 188/abschrift.md 
+          - file: 188/abschrift-4386.md 
 #  exports:          ** xref:doc5.md[]
 #    - format: pdf   ** xref:doc6.md[]
 #      template: lapreprint-typst
