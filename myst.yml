@@ -7,9 +7,29 @@ project:
   # keywords: []
   # authors: []
   # github:
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"  title: Krückeberg Genealogy
+  description: Niedersachsen Bückeburg Archive Research 
+  keywords:
+    - jupyter-book
+  authors:
+    - name: Kurt Krückeberg
+  github: https://github.com/kurt-krueckeberg/jupyter-nla
+  # To autogenerate a table of contents, run "jupyter book init --write-toc"
+  toc:
+#  exports:
+#    - format: pdf
+#      template: lapreprint-typst
+#      articles: intro.md
 site:
-  template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
+  template: ../myst-theme/.deploy/book/template.yml
+# actions:
+#   - title: Krückeberg Genealogy
+#     url: http://localhost:8000 
+  options:
+    logo: _static/krueckeberg-genealogy-myst-style-light.svg
+    logo_dark: _static/krueckeberg-genealogy-myst-style-dark.svg
+    style: _static/css/overrides.css
+
