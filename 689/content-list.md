@@ -22,8 +22,7 @@ Transliteration
 
 <!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-```{raw} html
-<div data-include-html="_table-artifacts/content-list-table-01.html"></div>
+```{include} _table-artifacts/content-list-table-01.html
 ```
 
 :::{admonition} Carifications
@@ -57,7 +56,6 @@ Translation (corrected)
 
 <!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-```{raw} html
-<div data-include-html="_table-artifacts/content-list-table-02.html"></div>
+```{include} _table-artifacts/content-list-table-02.html
 ```
 

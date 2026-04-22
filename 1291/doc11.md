@@ -155,8 +155,7 @@ an Kammeral Prestanden
 
 <!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-```{raw} html
-<div data-include-html="_table-artifacts/doc11-table-03.html"></div>
+```{include} _table-artifacts/doc11-table-03.html
 ```
 
 ### Specification’s Transliteration
@@ -305,8 +304,7 @@ Kammeral dues table in text
 
 <!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
 
-```{raw} html
-<div data-include-html="_table-artifacts/doc11-table-06.html"></div>
+```{include} _table-artifacts/doc11-table-06.html
 ```
 
 ### Specification’s Translation
