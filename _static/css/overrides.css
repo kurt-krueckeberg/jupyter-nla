@@ -48,11 +48,15 @@ img.image-override,
   overflow: hidden;
 }
 
+
 @media (prefers-color-scheme: dark) {
-  .myst-code {
+  img.image-override,
+  .image-override img {
+    border: 1px solid rgba(255, 255, 255, 0.22);
     box-shadow:
       0 0 0 1px rgba(255, 255, 255, 0.10),
-      0 6px 16px rgba(0, 0, 0, 0.55);
-    border-color: #888;
+      0 8px 22px rgba(0, 0, 0, 0.65);
+    background: #2a2a2a;
+    cursor: zoom-in;
   }
 }
