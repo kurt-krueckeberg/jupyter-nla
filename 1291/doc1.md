@@ -1,4 +1,4 @@
-# Document 1
+# Petition of the shoemaker Krückeberg No. 10 in Berenbusch
 
 ## Digital Image
 

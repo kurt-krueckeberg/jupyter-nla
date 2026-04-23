@@ -52,6 +52,7 @@ project:
           - file: 1291/contents-list.md
             children:
               - file: 1291/doc1.md
+                title: Krückeberg no. 10 Berenbush Petition 
               - file: 1291/doc2.md
               - file: 1291/doc3.md
               - file: 1291/doc4.md
