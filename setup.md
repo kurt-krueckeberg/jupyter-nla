@@ -47,19 +47,8 @@ npm install
 npm run build
 ```
 
-2. Change a book theme file.
-
-The .adoc to .md converter `convert2jupbook2.py` added the class
-**image-override** to every image directive:
-
-``` {figure}
-:class: image-override
-```
-
-which this new version of the theme file below will detect.
-
+2. Replace the contents of entry.client.tsx with the working code
 ```bash
-# 3. Replace the contents of entry.client.tsx with the working code
 cat > ~/myst-theme/themes/book/app/entry.client.tsx <<'EOF'
 import { RemixBrowser } from '@remix-run/react';
 import { startTransition, StrictMode } from 'react';

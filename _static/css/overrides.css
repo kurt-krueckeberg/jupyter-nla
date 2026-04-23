@@ -38,3 +38,21 @@ img.image-override,
     cursor: zoom-in;
   }
 }
+
+/* Style literal blocks with a border */
+.myst-code {
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+  margin-top: 0.4em;
+  border: 3px solid #444;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+@media (prefers-color-scheme: dark) {
+  .myst-code {
+    box-shadow:
+      0 0 0 1px rgba(255, 255, 255, 0.10),
+      0 6px 16px rgba(0, 0, 0, 0.55);
+    border-color: #888;
+  }
+}
