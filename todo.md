@@ -1,9 +1,5 @@
 # TODO
 
-Build table of contents. Add navigation section headings:
- Other Documents
- Rentkammer Case Files
-just like ~/sphinx-nla uses.
-
-Then examine the ~/nla/antora.yml file and the individual nav.adoc files.
+Shorten the text in the navigation by introducing "title: replacement text"
+entries alongside the "- file: index.md" sort of entries.
 
