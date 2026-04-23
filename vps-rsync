@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+rsync -av --delete ~/jupyter-nla/_build/html/ /var/www/krueckeberg.org/nla/ 
