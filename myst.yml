@@ -27,7 +27,7 @@ project:
         children:
           - file: 140/page-17.md
 
-  - title: Rentkammer Documents
+  - title: Rentkammer Docs
     children:
       - file: rentkammer/rentkammer-and-kolonat-system.md
         children:
