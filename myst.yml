@@ -175,6 +175,7 @@ site:
     - title: Bückeburg Archive Research
       url: https://nla.krueckeberg.org 
   options:
+    folders: true
     logo: _static/nla-documents-myst-style-light.svg
     logo_dark: _static/nla-documents-myst-style-dark.svg
     style: _static/css/overrides.css
