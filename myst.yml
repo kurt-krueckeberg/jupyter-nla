@@ -17,6 +17,7 @@ project:
   # To autogenerate a table of contents, run "jupyter book init --write-toc"
   toc:
   - file: ROOT/index.md
+    title: Archival Documenets
 
   - title: Other Documents
     children:
