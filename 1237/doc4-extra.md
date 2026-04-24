@@ -2,9 +2,9 @@
 
 The heading at the top of Document #4 clearly reads:
 
-> -- heading
->
 > **“An Vormundschaftliche Kammer Bericht der Aemter Bückeburg und Arensburg.”**
+>
+> --  heading
 
 That confirms that even in 1800 the **Ausweisung** (land-assignment) paperwork
 still went first through the **Vormundschaftliche Kammer**.

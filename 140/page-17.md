@@ -9,9 +9,9 @@ the text was whitish-yellow).](https://www.moehle-research.de/)
 
 Dr. Möhle found that
 
-> -- Comments by Dr. Möhle
->
 > On p 17 we find a list for Berenbusch: Under *Brinksitzer* we see no. 10
+>
+> --  Comments by Dr. Möhle
 
 So it is page 17 in the volume that no. 10 Berenbusch is mentioned.
 

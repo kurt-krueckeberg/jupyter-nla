@@ -83,10 +83,10 @@ On 18 February 1799 a marginal note (written on the Office’s Petition) by
 Forstmeister Kaas records that a brief written order from the Cammer was
 sent to the Bückeburg Office, instructing it to report on the case.
 
-> -- Vormundschaftliche Kammer Notation on Bückeburg Office Petition
->
 > A short written order from the Chamber was sent to the Office for its report.
 > Bückeburg, 18 February 1799. MKaas.
+>
+> --  Vormundschaftliche Kammer Notation on Bückeburg Office Petition
 
 The exact wording of that order and any enclosures (such as the Forestry
 Report) are not preserved; only this short reference and the Office’s subsequent

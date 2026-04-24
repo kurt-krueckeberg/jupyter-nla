@@ -7,7 +7,7 @@ image.
 
 ## Image
 
-03 r
+[03 r](self)
 
 ## Transliteration and Translation
 

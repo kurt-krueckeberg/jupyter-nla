@@ -14,12 +14,12 @@ Dr. Sylvia Möhle, who examined this document in the Bückeburg archive,
 found no Krückeberg who was a Brinksitzer in Berenbusch in 1737, the year of
 this document:
 
-> -- Dr Sylvia Möhle's findings
->
 > Berenbusch – the ‚Brinksitzer‘ properties belonged to the Prince and tax
 > has to be paid to him, as is noted on the right side of this page. Among
 > the property owners there is **no Krückeberg**, nor do the names of his
 > predecessors **Kuhlmann** and **Eggerding** appear.
+>
+> --  Dr Sylvia Möhle's findings
 
 ```{important}
 If Friedrich Kuhlmann was the immediate preceding holder of no. 10

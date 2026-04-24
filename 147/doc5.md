@@ -10,7 +10,7 @@
 :class: image-override
 ```
 
-09 vert text
+[09 vert text](self)
 
 ```{image} images/11.png
 :class: image-override
