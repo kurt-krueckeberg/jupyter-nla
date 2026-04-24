@@ -1,4 +1,4 @@
-# Doc 2 
+# Doc 2: Analysis
 
 ```{list-table} Document 2
 :header-rows: 1

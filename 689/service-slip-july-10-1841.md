@@ -1,4 +1,4 @@
-# Service of the Decree (Bescheid) — 27 July 1841 (re
+# Service of the Decree (Bescheid) — 27 July 1841 (re: Doc 1i, 10 July 1841)
 
 ```{image} images/07-l.png
 :class: image-override

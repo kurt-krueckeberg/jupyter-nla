@@ -1,18 +1,14 @@
-# Document 3
+# Document 3: Cammer Directive (11 Mar. 1799)
 
 ## Narrative Overview
 
-### 
-        **Recapitulation: Cammer Reaction to Document 2 (10 March 1799)**
-      
+### **Recapitulation: Cammer Reaction to Document 2 (10 March 1799)**
 
 After first reviewing Document 2 on March 6, 1799, the Cammer noted, on
 March 10, 1799, their intention to approve Jobst Heinrich’s request and to
 allocated land for him to purchase.
 
-### 
-        **Offical Directive (11 March 1799) from Cammer to Ämter**
-      
+### **Offical Directive (11 March 1799) from Cammer to Ämter**
 
 On March 11. 1799, the official, formal reply of the Cammer to the Ämter
 (offices) of Bückeburg and Arensburg was written. The header references

@@ -1,4 +1,4 @@
-# Ancestral Case Files
+# Ancestral Case Files: Krückeberg-Related Documents from the Bückeburg Archives
 
 This site contains these case files of the Schaumburg-Lippe Rentkammer
 related to the Krückeberg family of Berenbusch, Schaumburg-Lippe.

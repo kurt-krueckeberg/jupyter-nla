@@ -1,4 +1,4 @@
-# Background
+# Background: Amt Bückeburg Decree and Execution Order (10/13 July 1841)
 
 ## Overview and Summary
 

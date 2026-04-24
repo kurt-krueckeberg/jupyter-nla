@@ -1,4 +1,4 @@
-# 16 Sept. 1850 
+# 16 Sept. 1850: Actum Bückeburg am Amte
 
 ## Image
 

@@ -1,4 +1,4 @@
-# Document 4½
+# Document 4½: Geometric Drawing of Two Parcels (30 Mar. 1799)
 
 ## Explanation
 

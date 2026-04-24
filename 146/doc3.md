@@ -1,4 +1,4 @@
-# Document 3
+# Document 3: Drafts of Cameral rescripts from the Office of Bückeburg
 
 ## Overview
 

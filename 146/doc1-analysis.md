@@ -273,13 +273,9 @@ answers a different historical question.
 
 
 
-### 
-        **Layer 1 — General legal-historical meaning (baseline control)**
-      
+### **Layer 1 — General legal-historical meaning (baseline control)**
 
-#### 
-          **Deutsches Rechtswörterbuch (DRW)**
-        
+#### **Deutsches Rechtswörterbuch (DRW)**
 
 **What it is** The DRW is the authoritative **historical legal dictionary**
 for German-language legal and administrative terminology (Middle Ages →
@@ -310,17 +306,11 @@ for German-language legal and administrative terminology (Middle Ages →
 
 
 
-### 
-        **Layer 2 — Regional social & administrative function (interpretive context)**
-      
+### **Layer 2 — Regional social & administrative function (interpretive context)**
 
-#### 
-          **Das Fürstentum Lippe im Zeitalter der Französischen Revolution 1770–1820 — Jürgen Arndt (1992)**
-        
+#### **Das Fürstentum Lippe im Zeitalter der Französischen Revolution 1770–1820 — Jürgen Arndt (1992)**
 
-##### 
-            **Direct PDF (LWL digital edition, Part II):**
-          
+##### **Direct PDF (LWL digital edition, Part II):**
 
 👉 [txt262](https://www.lwl.org/westfaelische-geschichte/txt/normal/txt262.pdf)
 
@@ -381,15 +371,11 @@ You can ignore sections on:
 
 TODO: Continue here: [https:69853a0a-aa84-8004-b2e2-1f98ba20b6eb](https://chatgpt.com/share/69853a0a-aa84-8004-b2e2-1f98ba20b6eb)
 
-### 
-        **Layer 3 — Schaumburg-Lippe–specific, primary-era authority**
-      
+### **Layer 3 — Schaumburg-Lippe–specific, primary-era authority**
 
 I will skip this since J. Arndt uses this as his primary sources!
 
-### 
-        **Layer 4 — Your Rentkammer case files (authoritative local practice)**
-      
+### **Layer 4 — Your Rentkammer case files (authoritative local practice)**
 
 **What they are**
 
@@ -411,9 +397,7 @@ I will skip this since J. Arndt uses this as his primary sources!
 
 
 
-### 
-        **Putting it all together (methodologically sound)**
-      
+### **Putting it all together (methodologically sound)**
 
 A defensible workflow for your Rentkammer material:
 
@@ -426,9 +410,7 @@ This is exactly how regional historians and archival editors proceed.
 
 
 
-### 
-        **Bottom-line synthesis (safe to quote/paraphrase)**
-      
+### **Bottom-line synthesis (safe to quote/paraphrase)**
 
 > *The interpretation of rural status terms such as **Einlieger**,
 > **Neubauer**, and **Colon** in Schaumburg-Lippe Rentkammer records rests on
@@ -440,9 +422,7 @@ This is exactly how regional historians and archival editors proceed.
 
 
 
-### 
-        **In one sentence**
-      
+### **In one sentence**
 
 - **DRW** controls *meaning*
 - **Arndt** explains *function*

@@ -1,10 +1,8 @@
-# Document 2
+# Document 2: Land Assignment Report and Its Offical Response (27 Feb. 1799)
 
 ## Document 2: Narrative Overview
 
-### 
-        **1. Ämter Compose the Land Assignment Report: Document 2 (27 Feb 1799)**
-      
+### **1. Ämter Compose the Land Assignment Report: Document 2 (27 Feb 1799)**
 
 With the new guidance from the Cammer, the Ämter prepared Document 2, on
 February, 27, 1799, to inform the Cammer that they had reviewed the forestry report,
@@ -15,9 +13,7 @@ The "main text", the larger text on the page, is the **The Land Assignment
 Report** issued by the **Ämter Bückeburg und Arensburg** (local adminstrative
 offices of Bückeburg and Arenburg).
 
-### 
-        **2. Cammer’s Reaction to Document 2 (10 Mar 1799)**
-      
+### **2. Cammer’s Reaction to Document 2 (10 Mar 1799)**
 
 The **marginal note**, the darker, somewhat smaller text on the left side, is
 the Cammer’s opinion of the remitted report, but not a formal reply addressed

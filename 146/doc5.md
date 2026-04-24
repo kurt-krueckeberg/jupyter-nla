@@ -1,4 +1,4 @@
-# Document 5
+# Document 5: Drafts of Cameral rescripts to the administrative offices of Bückeburg and Arensburg
 
 ## Overview
 

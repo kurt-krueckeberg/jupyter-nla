@@ -1,10 +1,8 @@
-# Document 5
+# Document 5: Draft of Chamber’s Official Resolutions to the Bückeburg Officials, and to the Fiscal Treasurer Stackmann (27 Oct. 1800)
 
 ## Narrative Overview
 
-### 
-        **18 October 1800 – Local Officials' Report**
-      
+### **18 October 1800 – Local Officials' Report**
 
 The Ämter Bückeburg and Arensburg submitted a report to the
 Vormundschaftliche Cammer regarding the proposed allocation of additional
@@ -16,9 +14,7 @@ They proposed an annual **Rottzins** (ground rent) of **2 Mariengroschen, 1
 Pfennig**, beginning **Michaelmas** (29 September) 1800, and a purchase price
 of **2 Reichsthaler, 4 Mariengroschen per rod**.
 
-### 
-        **27 October 1800 – Official Reply 1: Approval of Land Assignment**
-      
+### **27 October 1800 – Official Reply 1: Approval of Land Assignment**
 
 The Cammer replied in its first Official Reply (Rescript; **ad nr. D: 322.
 S.S.**), formally approving:
@@ -32,9 +28,7 @@ Pfennig**, payable to the Cammer’s revenue office.
 The local officials were instructed to ensure Krückeberg fulfilled all
 stated conditions.
 
-### 
-        **27 October 1800 – Official Reply 2: Directive to Collect Purchase Price**
-      
+### **27 October 1800 – Official Reply 2: Directive to Collect Purchase Price**
 
 In a second official reply (Rescript) on the same day, addressed to
 **Cammer Rentmaster Stackmann**, the Cammer ordered:
@@ -49,9 +43,7 @@ justification.
 The marginal note **Exp: per Bolte** records that the order was dispatched by
 the official Bolte.
 
-### 
-        **Significance**
-      
+### **Significance**
 
 These two Offical Replies (Rescripts) represent the **final administrative
 stage** of the case:

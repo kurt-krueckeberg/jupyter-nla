@@ -1,4 +1,4 @@
-# Docket Item 9
+# Docket Item 9: Report from the District Office of Bückeburg (8 Feb 1842)
 
 ```{list-table}
 
