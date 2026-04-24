@@ -46,16 +46,8 @@ reliqui"**, which means he had the same conditions as all the others.
 :class: image-override
 ```
 
-```{list-table}
-
-* -                 First page (Click to Enlarge)
-                    
-                      
-                        
-                      
-                      
-                        2741 3
-  - 
+```{image} images/2741-3.jpg
+:class: image-override
 ```
 
 ## Transliteration and Translation
