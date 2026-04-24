@@ -8,6 +8,15 @@ unfamiliar; for example, `Erntetage (mandatory harvesting work)`.
 This will display only **Erntetage** with .... underneath it, and when one
 hovers over the text, **mandatory harvesting work** will display.
 
+For the `Other Documents` section:
+
+```yml
+- title: Householder Survey (1737)
+- title: Property Holder Questioning (1743–1744)
+- title: Evesen–Berenbusch–Nordholz Survey (1745)
+- title: Kolon List with House Numbers (1747)
+```yml
+
 For the `Rentkammer Docs` section:
 
 ```yml
