@@ -2,11 +2,10 @@
 
 ## Overview
 
-This document has identifier
-[NLA BU L 2 L
-Nr. 27/41](file:///home/kurt/antora-nla/public/nla/1.0/index.html) in the
-[Arcinsys Archival
-information system Niedersachsen and Bremen](https://www.arcinsys.niedersachsen.de/arcinsys/start.action).
+This is document
+[NLA BU L 2 L Nr. 27/41](https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4894537)
+in the
+[Arcinsys Archival information system Niedersachsen and Bremen](https://www.arcinsys.niedersachsen.de/arcinsys/start.action).
 
 Johann Heinrich Krückeberg is one of the respondents, and therefore a
 property holder by 1743-44.
