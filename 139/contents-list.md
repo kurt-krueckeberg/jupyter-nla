@@ -39,34 +39,35 @@ treated by the authorities as one coherent administrative unit.
   - Day
 * - 1.
   - [Vorstellung der Wittwe Krückeberg, Stätte No. 10 Berenbusch](doc1-1.md)
-  - [Petition of the widow Krückeberg, Holding 10 in Berenbusch.](doc1-1.md)
+  - [Petition of the widow Krückeberg, Holding 10 in Berenbusch](doc1-1.md).
   - Bburg
   - 1824
   - July
   - 8
 * - "
   - [Bericht des Amts Bückeberg](doc1-2.md)
-  - [Report of the Office of Bückeberg.](doc1-2.md)
+  - [Report of the Office of Bückeberg](doc1-2.md).
   - "
   - "
   - "
   - 26
 * - "
   - [Concept Rescript an die Wittwe Krückeberg](doc1-3.md)
-  - [Draft of the official reply (Rescript) to the widow Krückeberg.](doc1-3.md)
+  - [Draft of the official reply (Rescript) to the widow Krückeberg](doc1-3.md).
   - "
   - "
   - Aug
   - 4
 * - "
   - [Similiter: wapp\[niert\] Schmöe, Kahlhuth und Creuzinger zu Baum](doc1-4.md)
-  - [Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum.](doc1-4.md)
+  - [Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum](doc1-4.md).
   - "
   - "
   - "
   - "
 * - "
-  - [Concept Rescript aus Amt Bückeberg xref:doc1-5.adoc\[](doc1-5.md)
+  - [Concept Rescript aus Amt Bückeberg](doc1-5.md)
+    xref:doc1-5.adoc[
   - Draft of the official reply (rescript) originating from the Office of Bückeberg].
   - "
   - "
@@ -74,7 +75,7 @@ treated by the authorities as one coherent administrative unit.
   - "
 * - 2.
   - [Bericht des Amts Bückeberg](doc2.md)
-  - [Report of the Office of Bückeberg.](doc2.md)
+  - [Report of the Office of Bückeberg](doc2.md).
   - "
   - "
   - "
