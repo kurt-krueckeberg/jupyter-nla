@@ -2,12 +2,10 @@
 version: 1
 project:
   id: f80d3aa0-1fa3-4c13-a68d-a59dce6316c0
-  # title:
   # description:
   # keywords: []
   # authors: []
   # github:
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"  title: Krückeberg Genealogy
   description: Niedersachsen Bückeburg Archive Research 
   keywords:
     - jupyter-book
@@ -15,9 +13,9 @@ project:
     - name: Kurt Krückeberg
   github: https://github.com/kurt-krueckeberg/jupyter-nla
   # To autogenerate a table of contents, run "jupyter book init --write-toc"
+  title: Archival Documents
   toc:
   - file: ROOT/index.md
-    title: Archival Documenets
 
   - title: Other Documents
     children:
