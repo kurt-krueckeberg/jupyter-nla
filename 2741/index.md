@@ -220,7 +220,8 @@ Translation
 
 Heading: “N. X [Rentkammer-Fragen?] how he is called”
 
-1. Johann Heinrich Krückeberg — formerly Friedrich Kuhlmann, also Johann Tönnies Eggerding
+1. Johann Heinrich Krückeberg — formerly Friedrich Kuhlmann, also Johann Tönnies
+   Eggerding
    Indicates earlier holders of the same dwelling/holding.
 
 2. He married in connection with it.
@@ -230,7 +231,8 @@ Heading: “N. X [Rentkammer-Fragen?] how he is called”
 3. A Brinksitzer
    Small cottager living on the village edge with minimal land.
 
-4. He has nothing except a garden, in which also some seed-land according to the new survey
+4. He has nothing except a garden, in which also some seed-land according to
+   the new survey
    Very small cultivated plot only, confirmed by cadastral measurement.
 
 5. ceased / not applicable
@@ -259,7 +261,8 @@ Heading: “N. X [Rentkammer-Fragen?] how he is called”
    Additional service obligations when called (others: land-escort duty).
 
 14–16. Like the others
-   Same communal obligations as fellow villagers (others: also hunting and watch duties).
+   Same communal obligations as fellow villagers (others: also hunting and watch
+   duties).
 
 17. ceased / not applicable
 
