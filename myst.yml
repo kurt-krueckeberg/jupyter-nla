@@ -21,19 +21,25 @@ project:
   - title: Other Documents
     children:
       - file: 2728/survey-1737.md
+        title: Householder Survey (1737)
       - file: 2741/index.md
+        title: Property Holder Questioning (1743–1744)
       - file: 2713/index.md
+        title: Evesen–Berenbusch–Nordholz Survey (1745)
       - file: 140/index.md
+        title: Kolon List with House Numbers (1747)
         children:
           - file: 140/page-17.md
 
   - title: Rentkammer Docs
     children:
       - file: rentkammer/rentkammer-and-kolonat-system.md
+        title: Rentkammer Overview
         children:
           - file: rentkammer/case-file-docs-explained.md
           - file: rentkammer/terms.md
       - file: 1237/index.md
+        title: Krückeberg Lot Enlargement
         children:
           - file: 1237/cover.md
           - file: 1237/narr-timeline.md
@@ -47,6 +53,7 @@ project:
               - file: 1237/reminder-note.md
 
       - file: 1291/index.md
+        title: Nordholz New Holdings
         children: 
           - file: 1291/workflow.md
           - file: 1291/contents-list.md
@@ -97,6 +104,7 @@ project:
                 title:
 
       - file: 146/index.md
+        title: Berenbusch No. 18, 1808–1850
         children: 
           - file: 146/cover.md
           - file: 146/contents-list.md
@@ -126,6 +134,7 @@ project:
               - file: 146/copia.md  
 
       - file: 147/index.md
+        title: Berenbusch No. 19
         children: 
           - file: 147/cover.md
           - file: 147/contents-list.md
@@ -133,6 +142,7 @@ project:
               - file: 147/doc5.md
 
       - file: 139/index.md
+        title: Berenbusch No. 10, 1824–1849
         children:
           - file: 139/cover.md
           - file: 139/narr-timeline.md
@@ -156,6 +166,7 @@ project:
               - file: 139/sales-contract-for-no-10.md
 
       - file: 689/index.md
+        title: Krückeberg Chamber Loan
         children: 
           - file: 689/rentcammer-and-amt.md
           - file: 689/cover.md
@@ -181,6 +192,7 @@ project:
           - file: 689/doc10.md
 
       - file: 188/index.md
+        title: Sale of No. 18
         children:
           - file: 188/cover.md
           - file: 188/abschrift-4386.md 
