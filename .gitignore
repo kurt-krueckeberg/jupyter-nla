@@ -10,8 +10,6 @@ __pycache__/
 
 # Virtual environments
 .venv/
-venv/
-env/
 
 # Jupyter
 .ipynb_checkpoints/
