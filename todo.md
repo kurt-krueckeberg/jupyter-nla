@@ -8,3 +8,19 @@ unfamiliar; for example, `Erntetage (mandatory harvesting work)`.
 This will display only **Erntetage** with .... underneath it, and when one
 hovers over the text, **mandatory harvesting work** will display.
 
+For the `Rentkammer Docs` section:
+
+```yml
+- title: Rentkammer Overview
+- title: Krückeberg Lot Enlargement
+- title: Nordholz New Holdings
+- title: Berenbusch No. 18, 1808–1850
+- title: Berenbusch No. 19
+- title: Berenbusch No. 10, 1824–1849
+- title: Krückeberg Chamber Loan
+- title: Sale of No. 18
+```
+
+
+For the `Otther Documents` section:
+
