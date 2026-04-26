@@ -92,3 +92,5 @@ Brief explanation of the case file.
 Furthermore, the 2nd level navigation can come from short "title:" text
 which can comes from come patterns found across the case files--petition,
 office report, offical reply, etc.
+
+**TODO:** Remember any index.md should be looked for and examined.
