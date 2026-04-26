@@ -40,7 +40,7 @@ project:
         title: Terms
         
   - file: 1237/content.md
-    title: Krückeberg Lot Enlargement
+#   title: Krückeberg Lot Enlargement
     children:
       - file: 1237/cover.md
       - file: 1237/intro.md
