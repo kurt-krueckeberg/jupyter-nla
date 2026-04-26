@@ -38,19 +38,31 @@ project:
         title: Case File Docs Explained
       - file: rentkammer/terms.md
         title: Terms
-        
+       
   - file: 1237/content.md
-#   title: Krückeberg Lot Enlargement
+    title: Lot Enlargement
     children:
       - file: 1237/cover.md
+        title: Cover
       - file: 1237/intro.md
+        title: Intro
       - file: 1237/narr-timeline.md
+        title: Timeline
       - file: 1237/doc1.md
-      - file: 1237/doc2.md
-      - file: 1237/doc3.md
-      - file: 1237/doc4.md
-      - file: 1237/doc4pt5.md
-      - file: 1237/reminder-note.md
+        title: Doc 1
+  
+# - file: 1237/content.md
+#   title: Krückeberg Lot Enlargement
+#   children:
+#     - file: 1237/cover.md
+#     - file: 1237/intro.md
+#     - file: 1237/narr-timeline.md
+#     - file: 1237/doc1.md
+#     - file: 1237/doc2.md
+#     - file: 1237/doc3.md
+#     - file: 1237/doc4.md
+#     - file: 1237/doc4pt5.md
+#     - file: 1237/reminder-note.md
 
   - file: 1291/content.md
     title: Nordholz New Holdings
@@ -191,6 +203,7 @@ site:
     - title: Bückeburg Archive Research
       url: https://nla.krueckeberg.org 
   options:
+    folders: true
     logo: _static/nla-documents-myst-style-light.svg
     logo_dark: _static/nla-documents-myst-style-dark.svg
     style: _static/css/overrides.css
