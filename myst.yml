@@ -39,19 +39,17 @@ project:
           - file: rentkammer/case-file-docs-explained.md
           - file: rentkammer/terms.md
 
-  - file: 1237/index.md
+  - file: 1237/content.md
     title: Krückeberg Lot Enlargement
     children:
       - file: 1237/cover.md
       - file: 1237/narr-timeline.md
-      - file: 1237/contents-list.md
-        children:
-          - file: 1237/doc1.md
-          - file: 1237/doc2.md
-          - file: 1237/doc3.md
-          - file: 1237/doc4.md
-          - file: 1237/doc4pt5.md
-          - file: 1237/reminder-note.md
+      - file: 1237/doc1.md
+      - file: 1237/doc2.md
+      - file: 1237/doc3.md
+      - file: 1237/doc4.md
+      - file: 1237/doc4pt5.md
+      - file: 1237/reminder-note.md
 
   - file: 1291/index.md
     title: Nordholz New Holdings
