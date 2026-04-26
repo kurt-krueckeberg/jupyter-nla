@@ -20,6 +20,11 @@ Jupiter Book 2. A case by case decision will have to be made on each of thesA ca
 
 Sorry, I made a mistake. Let me retry. Instead of the current navigation
 
+<!-- single-doc brief Rentkammer intro that functions as "section" boundary
+-->
+- file: rentkammer/index.md
+  tite: Rentkammer Docs
+
 - file: 1237/index.md
   title: Krückeberg Lot Enlargement
   children:
