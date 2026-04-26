@@ -49,86 +49,81 @@ project:
       - file: 1237/doc4pt5.md
       - file: 1237/reminder-note.md
 
-  - file: 1291/index.md
+  - file: 1291/content.md
     title: Nordholz New Holdings
-    children: 
+    children:
       - file: 1291/workflow.md
-      - file: 1291/contents-list.md
-        children:
-          - file: 1291/doc1.md
-            title: Krückeberg no. 10 Berenbush Petition 
-          - file: 1291/doc2.md
-            title: Forestry Depart. Report
-          - file: 1291/doc3.md
-            title: Official Decision 
-          - file: 1291/doc4.md
-            title: Petition of lodger Vogt
-          - file: 1291/doc5.md
-            title: Petition of soldier Brüggemann
-          - file: 1291/doc6.md
-            title: Report of local office
-          - file: 1291/doc7.md
-            title: Official Reply to local office
-          - file: 1291/doc8.md
-            title: Report of local office
-          - file: 1291/doc9.md
-            title:
-          - file: 1291/doc10.md
-            title:
-          - file: 1291/doc11.md
-            title:
-          - file: 1291/doc12.md
-            title:
-          - file: 1291/doc13.md
-            title:
-          - file: 1291/doc14.md
-            title:
-          - file: 1291/doc15.md
-            title:
-          - file: 1291/doc16.md
-            title:
-          - file: 1291/doc17.md
-          
-          - file: 1291/doc18.md
-            title:
-          - file: 1291/doc19.md
-            title:
-          - file: 1291/doc20.md
-            title:
-          - file: 1291/doc21.md
-            title:
-          - file: 1291/doc22.md
-            title:
+      - file: 1291/doc1.md
+        title: Krückeberg no. 10 Berenbush Petition 
+      - file: 1291/doc2.md
+        title: Forestry Depart. Report
+      - file: 1291/doc3.md
+        title: Official Decision 
+      - file: 1291/doc4.md
+        title: Petition of lodger Vogt
+      - file: 1291/doc5.md
+        title: Petition of soldier Brüggemann
+      - file: 1291/doc6.md
+        title: Report of local office
+      - file: 1291/doc7.md
+        title: Official Reply to local office
+      - file: 1291/doc8.md
+        title: Report of local office
+      - file: 1291/doc9.md
+        title:
+      - file: 1291/doc10.md
+        title:
+      - file: 1291/doc11.md
+        title:
+      - file: 1291/doc12.md
+        title:
+      - file: 1291/doc13.md
+        title:
+      - file: 1291/doc14.md
+        title:
+      - file: 1291/doc15.md
+        title:
+      - file: 1291/doc16.md
+        title:
+      - file: 1291/doc17.md
+      - file: 1291/doc18.md
+        title:
+      - file: 1291/doc19.md
+        title:
+      - file: 1291/doc20.md
+        title:
+      - file: 1291/doc21.md
+        title:
+      - file: 1291/doc22.md
+        title:
 
-  - file: 146/index.md
+  - file: 146/cover.md
     title: Berenbusch No. 18, 1808–1850
     children: 
-      - file: 146/cover.md
-      - file: 146/contents-list.md
-        children:
-          - file: 146/doc1.md
-          - file: 146/doc1-analysis.md
-          - file: 146/doc1-2nd-analysis.md
-          - file: 146/doc2.md
-          - file: 146/doc3.md
-          - file: 146/doc4.md
-          - file: 146/doc5.md
-          - file: 146/doc6.md
-          - file: 146/ad6-survey-drawing.md
-          - file: 146/doc7.md
-          - file: 146/doc8.md
-          - file: 146/doc9.md
-          - file: 146/doc10.md
-          - file: 146/doc11.md
+      - file: 146/intro.md
+      - file: 146/doc1.md
+      - file: 146/doc1-analysis.md
+      - file: 146/doc1-2nd-analysis.md
+      - file: 146/doc2.md
+      - file: 146/doc3.md
+      - file: 146/doc4.md
+      - file: 146/doc5.md
+      - file: 146/doc6.md
+      - file: 146/ad6-survey-drawing.md
+      - file: 146/doc7.md
+      - file: 146/doc8.md
+      - file: 146/doc9.md
+      - file: 146/doc10.md
+      - file: 146/doc11.md
       - file: 146/other-docs.md
-        children:
-          - file: 146/petition-to-sell-cover-sheet.md
-          - file: 146/carl-fried-supplication-to-sell.md
-          - file: 146/actum-bueckeburg-am-Amte-9-16-50.md
-          - file: 146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
-          - file: 146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
-          - file: 146/report-to-bueckeburg-amt-9-26-50.md
-          - file: 146/copia.md  
+    children:
+      - file: 146/petition-to-sell-cover-sheet.md
+      - file: 146/carl-fried-supplication-to-sell.md
+      - file: 146/actum-bueckeburg-am-Amte-9-16-50.md
+      - file: 146/report-to-kammer-from-bueckeburg-amt-9-19-50.md
+      - file: 146/report-to-kammer-from-bueckeburg-amt-9-26-50.md
+      - file: 146/report-to-bueckeburg-amt-9-26-50.md
+      - file: 146/copia.md  
 
   - file: 147/content.md
     title: Berenbusch No. 19
