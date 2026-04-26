@@ -191,10 +191,10 @@ project:
     children:
       - file: 188/cover.md
       - file: 188/abschrift-4386.md 
-#  exports:          ** xref:doc5.md[]
-#    - format: pdf   ** xref:doc6.md[]
-#      template: lapreprint-typst
-#      articles: intro.md
+   exports:          ** xref:doc5.md[]
+     - format: pdf   ** xref:doc6.md[]
+       template: lapreprint-typst
+       articles: intro.md
 site:
   # options:
   #   favicon: favicon.ico
@@ -204,7 +204,6 @@ site:
     - title: Bückeburg Archive Research
       url: https://nla.krueckeberg.org 
   options:
-    folders: true
     logo: _static/nla-documents-myst-style-light.svg
     logo_dark: _static/nla-documents-myst-style-dark.svg
     style: _static/css/overrides.css
