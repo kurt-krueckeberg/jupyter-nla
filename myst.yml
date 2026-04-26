@@ -132,13 +132,13 @@ project:
               - file: 146/report-to-bueckeburg-amt-9-26-50.md
               - file: 146/copia.md  
 
-      - file: 147/contents.md
+      - file: 147/content.md
         title: Berenbusch No. 19
         children: 
           - file: 147/cover.md
           - file: 147/doc5.md
 
-      - file: 139/contents.md
+      - file: 139/content.md
         title: Berenbusch No. 10, 1824–1849
         children:
           - file: 139/cover.md
