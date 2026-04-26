@@ -41,6 +41,7 @@ project:
     title: Krückeberg Lot Enlargement
     children:
       - file: 1237/cover.md
+      - file: 1237/intro.md
       - file: 1237/narr-timeline.md
       - file: 1237/doc1.md
       - file: 1237/doc2.md
