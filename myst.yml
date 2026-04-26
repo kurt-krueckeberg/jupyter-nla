@@ -133,27 +133,28 @@ project:
       - file: 147/cover.md
       - file: 147/doc5.md
 
-  - file: 139/content.md
-    title: Berenbusch No. 10, 1824–1849
+  - title: Berenbusch No. 10, 1824–1849
     children:
-      - file: 139/cover.md
-      - file: 139/narr-timeline.md
-      - file: 139/doc1-1.md
-      - file: 139/doc1-2.md
-      - file: 139/doc1-3.md
-      - file: 139/doc1-4.md
-      - file: 139/doc1-5.md
-      - file: 139/doc2.md
+    - file: 139/content.md
+      children:
+        - file: 139/cover.md
+        - file: 139/narr-timeline.md
+        - file: 139/doc1-1.md
+        - file: 139/doc1-2.md
+        - file: 139/doc1-3.md
+        - file: 139/doc1-4.md
+        - file: 139/doc1-5.md
+        - file: 139/doc2.md
 
-      - title: 1849 Documents (Concerning Later Sale of Stätte No. 10)
-        children:
-          - file: 139/krueckeberg-petition-to-sell.md
-          - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md
-          - file: 139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding.md
-          - file: 139/actum-bueckeburg-amt-21-aug-1849.md
-          - file: 139/amt-report-22-aug-1849.md
-          - file: 139/petition-to-sell-his-holding-23-aug-1849.md
-          - file: 139/sales-contract-for-no-10.md
+    - title: 1849 Documents (Concerning Later Sale of Stätte No. 10)
+      children:
+        - file: 139/krueckeberg-petition-to-sell.md
+        - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md
+        - file: 139/rentkammer-confirmation-and-instruction-regards-sale-of-krueckeberg-holding.md
+        - file: 139/actum-bueckeburg-amt-21-aug-1849.md
+        - file: 139/amt-report-22-aug-1849.md
+        - file: 139/petition-to-sell-his-holding-23-aug-1849.md
+        - file: 139/sales-contract-for-no-10.md
 
   - file: 689/index.md
     title: Krückeberg Chamber Loan
