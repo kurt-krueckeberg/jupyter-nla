@@ -191,10 +191,10 @@ project:
     children:
       - file: 188/cover.md
       - file: 188/abschrift-4386.md 
-   exports:          ** xref:doc5.md[]
-     - format: pdf   ** xref:doc6.md[]
-       template: lapreprint-typst
-       articles: intro.md
+#exports: 
+#  - format: pdf  
+#    template: lapreprint-typst
+ #   articles: intro.md
 site:
   # options:
   #   favicon: favicon.ico
