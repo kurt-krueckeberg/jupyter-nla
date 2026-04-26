@@ -16,28 +16,11 @@ Tables were used to display side-by-side some transliterations and translations.
 from .adoc to .md, some of these tables were corrupted and some do not fit in the narrower content column of
 Jupiter Book 2. A case by case decision will have to be made on each of thesA case by case decision will have to be made on each of thesee
 
-## Two Level Navigation Structure
+## Use Mostly a Two Level Navigation Structure
 
-Sorry, I made a mistake. Let me retry. Instead of the current navigation
+This is what it would look like:
 
-<!-- single-doc brief Rentkammer intro that functions as "section" boundary
--->
-- file: rentkammer/index.md
-  tite: Rentkammer Docs
-
-- file: 1237/index.md
-  title: Krückeberg Lot Enlargement
-  children:
-    - file: 1237/cover.md
-    - file: 1237/narr-timeline.md
-    - file: 1237/contents-list.md
-      children:
-        - file: 1237/doc1.md
-        - file: 1237/doc2.md
-        
-I would do this
-
-  - file: 1237/contents.md
+  - file: 1237/content.md
   title: Krückeberg Lot Enlargement
   children:
     - file: 1237/cover.md
@@ -45,27 +28,14 @@ I would do this
     - file: 1237/doc1.md
     - file: 1237/doc2.md
 
-The contents-list-and-intro-pages.md page would become the top-level menu item
-and the documents it referenes would become its children, along with the
-cover page (and perhaps and overview or introduction page). I would either
-eliminate index.md or make it the intro.md page, and then in
-contents-list-and-intro-pages.md, which has a list-table that reflects the Designation Actorum
-and has markdown links to the ccase file's documents, I would have an
-unordered list of one or two items consisting of links to cover.md and, if
-it exists, to intro.md.
+The content.md page would become the top-level menu item corresponding to
+the Designatio Actorum. The documents it referenes are its children, along
+with cover.md, the cover page and perhaps a intro.md page. 
 
-This gives a two level structure:
-
-```text
-Krückeberg Lot Enlargement (Contents list page)
-  Cover
-  Narrative Timeline
-  Document 1
-  Document 2
-  ...
-```
-
-And contents.md becomes the real case-file landing page, containing:
+index.md, if it has content, would become intro.md. IT and any other
+explanotyr page not listed in the Desingatio Actorum would be listed in an
+unordered list in content.md before its Designatio Actorum table as shown
+below.
 
 ```text
 # Krückeberg Lot Enlargement
@@ -89,8 +59,9 @@ Brief explanation of the case file.
 - index.md can be eliminate or renamed intro.md
 - the navigation is still built from myst.yml.
 
-Furthermore, the 2nd level navigation can come from short "title:" text
-which can comes from come patterns found across the case files--petition,
-office report, offical reply, etc.
+Furthermore, the 2nd level navigation can, if needed, come from shorter
+"title:" text which can comes from come patterns found across the case
+files--petition, office report, offical reply, etc.
 
-**TODO:** Remember any index.md should be looked for and examined.
+**TODO:** Remember all files like index.md, intro.md, etc. should be
+accounted for and examined.
