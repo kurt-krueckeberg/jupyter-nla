@@ -17,7 +17,9 @@ project:
   toc:
   - file: ROOT/index.md
 
-  - title: General Documents
+  - file: general-docs/index.md
+    title: General Documents
+
     children:
       - file: 2728/survey-1737.md
         title: Householder Survey (1737)
