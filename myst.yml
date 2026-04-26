@@ -33,11 +33,11 @@ project:
 
   - file: rentkammer/rentkammer-and-kolonat-system.md
     title: Rentkammer Docs
-   children:
-     - file: rentkammer/case-file-docs-explained.md
-       title: Case File Docs Explained
-     - file: rentkammer/terms.md
-       title: Terms
+    children:
+      - file: rentkammer/case-file-docs-explained.md
+        title: Case File Docs Explained
+      - file: rentkammer/terms.md
+        title: Terms
         
   - file: 1237/content.md
     title: Krückeberg Lot Enlargement
