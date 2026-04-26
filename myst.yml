@@ -140,19 +140,17 @@ project:
             children:
               - file: 147/doc5.md
 
-      - file: 139/index.md
+      - file: 139/contents.md
         title: Berenbusch No. 10, 1824–1849
         children:
           - file: 139/cover.md
           - file: 139/narr-timeline.md
-          - file: 139/contents-list.md
-            children:
-              - file: 139/doc1-1.md
-              - file: 139/doc1-2.md
-              - file: 139/doc1-3.md
-              - file: 139/doc1-4.md
-              - file: 139/doc1-5.md
-              - file: 139/doc2.md
+          - file: 139/doc1-1.md
+          - file: 139/doc1-2.md
+          - file: 139/doc1-3.md
+          - file: 139/doc1-4.md
+          - file: 139/doc1-5.md
+          - file: 139/doc2.md
 
           - title: 1849 Documents (Concerning Later Sale of Stätte No. 10)
             children:
@@ -170,25 +168,26 @@ project:
           - file: 689/rentcammer-and-amt.md
           - file: 689/cover.md
           - file: 689/amt-decree.md
-          - file: 689/content-list.md
-          - file: 689/doc1.md
-          - file: 689/doc2-1.md
-          - file: 689/doc2-2.md
-          - file: 689/doc3-1.md
-          - file: 689/doc3-2.md
-          - file: 689/doc3-3.md
-          - file: 689/doc4-1.md
-          - file: 689/doc4-2.md
-          - file: 689/doc5.md
-          - file: 689/doc6-1.md
-          - file: 689/doc6-2.md
-          - file: 689/doc6-3.md
-          - file: 689/doc7.md
-          - file: 689/doc8-1.md
-          - file: 689/doc8-2.md
-          - file: 689/doc8-3.md
-          - file: 689/doc9.md
-          - file: 689/doc10.md
+          - file: 689/contents-list.md
+            children:
+              - file: 689/doc1.md
+              - file: 689/doc2-1.md
+              - file: 689/doc2-2.md
+              - file: 689/doc3-1.md
+              - file: 689/doc3-2.md
+              - file: 689/doc3-3.md
+              - file: 689/doc4-1.md
+              - file: 689/doc4-2.md
+              - file: 689/doc5.md
+              - file: 689/doc6-1.md
+              - file: 689/doc6-2.md
+              - file: 689/doc6-3.md
+              - file: 689/doc7.md
+              - file: 689/doc8-1.md
+              - file: 689/doc8-2.md
+              - file: 689/doc8-3.md
+              - file: 689/doc9.md
+              - file: 689/doc10.md
 
       - file: 188/index.md
         title: Sale of No. 18
