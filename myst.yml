@@ -31,12 +31,14 @@ project:
     children:
       - file: 140/page-17.md
 
-  - title: Rentkammer Docs
-    children:
-      - file: rentkammer/rentkammer-and-kolonat-system.md
-      - file: rentkammer/case-file-docs-explained.md
-      - file: rentkammer/terms.md
-
+  - file: rentkammer/rentkammer-and-kolonat-system.md
+    title: Rentkammer Docs
+   children:
+     - file: rentkammer/case-file-docs-explained.md
+       title: Case File Docs Explained
+     - file: rentkammer/terms.md
+       title: Terms
+        
   - file: 1237/content.md
     title: Krückeberg Lot Enlargement
     children:
