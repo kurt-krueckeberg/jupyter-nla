@@ -35,12 +35,12 @@ project:
     title: Rentkammer Docs
     children:
       - file: rentkammer/case-file-docs-explained.md
-        title: Case File Docs Explained
+        title: Case Files Explained
       - file: rentkammer/terms.md
-        title: Terms
+        title: Rentkammer Terms
        
   - file: 1237/content.md
-    title: Lot Enlargement
+    title:  Krückeberg No. 10 Berenbusch Land Enlargement Request
     children:
       - file: 1237/cover.md
         title: Cover
@@ -51,21 +51,8 @@ project:
       - file: 1237/doc1.md
         title: Doc 1
   
-# - file: 1237/content.md
-#   title: Krückeberg Lot Enlargement
-#   children:
-#     - file: 1237/cover.md
-#     - file: 1237/intro.md
-#     - file: 1237/narr-timeline.md
-#     - file: 1237/doc1.md
-#     - file: 1237/doc2.md
-#     - file: 1237/doc3.md
-#     - file: 1237/doc4.md
-#     - file: 1237/doc4pt5.md
-#     - file: 1237/reminder-note.md
-
   - file: 1291/content.md
-    title: Nordholz New Holdings
+    title: Allotments to Krückeberg no. 10 & Lodgers Vogt & Nordholz
     children:
       - file: 1291/workflow.md
       - file: 1291/doc1.md
@@ -99,7 +86,7 @@ project:
       - file: 1291/doc21.md
       - file: 1291/doc22.md
 
-  - title: Berenbusch No. 18, 1808–1850
+  - title: Holding Berenbusch No. 18, (1808–1810, 1850)
     children: 
       - file: 146/content.md
         children:
@@ -130,12 +117,12 @@ project:
           - file: 146/copia.md  
 
   - file: 147/content.md
-    title: Berenbusch No. 19
+    title: Holding Berenbusch No. 19
     children: 
       - file: 147/cover.md
       - file: 147/doc5.md
 
-  - title: Berenbusch No. 10, 1824–1849
+  - title: Holding Berenbusch No. 10 (1824–1849)
     children:
     - file: 139/content.md
       children:
@@ -149,7 +136,7 @@ project:
         - file: 139/doc1-5.md
         - file: 139/doc2.md
 
-    - title: 1849 Documents (Concerning Later Sale of Stätte No. 10)
+    - title: Sale of Berenbushc No. 10 (1849)
       children:
         - file: 139/krueckeberg-petition-to-sell.md
         - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md
@@ -160,7 +147,7 @@ project:
         - file: 139/sales-contract-for-no-10.md
 
     - file: 689/contents-list.md
-      title: Krückeberg Chamber Loan
+      title: Krückeberg no. 10 Chamber Loan (1841-1845)
       children: 
         - file: 689/intro.md
         - file: 689/rentcammer-and-amt.md
@@ -186,7 +173,7 @@ project:
         - file: 689/doc10.md
 
   - file: 188/index.md
-    title: Sale of No. 18
+    title: Sale of No. 18 Berenbusch (1850 
     children:
       - file: 188/cover.md
       - file: 188/abschrift-4386.md 
