@@ -86,7 +86,7 @@ project:
       - file: 1291/doc21.md
       - file: 1291/doc22.md
 
-  - title: Holding Berenbusch No. 18, (1808–1810, 1850)
+  - title: Berenbusch No. 18 Holding (1808–1810, 1850)
     children: 
       - file: 146/content.md
         children:
@@ -136,7 +136,7 @@ project:
         - file: 139/doc1-5.md
         - file: 139/doc2.md
 
-    - title: Sale of Berenbushc No. 10 (1849)
+    - title: Sale of Berenbusch No. 10 (1849)
       children:
         - file: 139/krueckeberg-petition-to-sell.md
         - file: 139/amt-report-on-krueckeberg-petition-to-sell-his-holding.md
@@ -173,7 +173,7 @@ project:
         - file: 689/doc10.md
 
   - file: 188/index.md
-    title: Sale of No. 18 Berenbusch (1850 
+    title: Sale of No. 18 Berenbusch (1850)
     children:
       - file: 188/cover.md
       - file: 188/abschrift-4386.md 
