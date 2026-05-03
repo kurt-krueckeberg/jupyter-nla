@@ -96,7 +96,6 @@ project:
     children: 
       - file: 146/content.md
         children:
-        - file: 146/intro.md
         - file: 146/cover.md
         - file: 146/doc1.md
         - file: 146/doc1-analysis.md
