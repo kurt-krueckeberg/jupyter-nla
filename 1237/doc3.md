@@ -1,4 +1,4 @@
-# Document 3: Cammer Directive (11 Mar. 1799)
+# Cammer Directive (11 Mar. 1799)
 
 ## Narrative Overview
 
@@ -41,7 +41,6 @@ felled and sold by the forestry office
 The complete text and its translation:
 
 ```{code-block} text
-:class: bordered
 
 ad nr: Cam: 53. S. S. [Signatum Supra]
 Concept Cammer: Rescript

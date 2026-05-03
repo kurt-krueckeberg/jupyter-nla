@@ -17,7 +17,6 @@
 ## Translation and Transliteration
 
 ```{code-block} text
-:class: bordered
 
 N. 101.
 p. 20 Febr. 1818
@@ -70,7 +69,6 @@ MKaas
 ```
 
 ```{code-block} text
-:class: bordered
 
 No. 101.
 p. 20 February 1818
@@ -125,7 +123,6 @@ M. Kaas
 ### Drawing Legend
 
 ```{code-block} text
-:class: bordered
 
 Auf Befehl der Forst Direction
 soll der Platz, mit A und B.
@@ -146,7 +143,6 @@ K. die angrenzende Petzen Horst
 ```
 
 ```{code-block} text
-:class: bordered
 
 By order of the Forestry Directorate, the plot marked A and B is to be
 designated for two new settlers; it is situated in the Petzen Horst and

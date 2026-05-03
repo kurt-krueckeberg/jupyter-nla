@@ -9,7 +9,6 @@
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 N.C. 62                                          3.)
 
@@ -47,7 +46,6 @@ equivalents.
 :::
 
 ```{code-block} text
-:class: bordered
 
 N.C. 62                                          3.)
 

@@ -9,7 +9,6 @@
 ## Tramsliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 N. C. 16.                                             7.,
 N. A. 749.
@@ -36,7 +35,6 @@ Exp: p: Alocis
 ```
 
 ```{code-block} text
-:class: bordered
 
 N.C. 16.
 N.A. 749.

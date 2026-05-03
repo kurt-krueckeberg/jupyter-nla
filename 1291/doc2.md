@@ -9,7 +9,6 @@
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 N. Cam. 62.                            2.
 
@@ -44,7 +43,6 @@ The **Söhre** was a locally named tract of village forest/common land near Bere
 ```
 
 ```{code-block} text
-:class: bordered
 
 N. Cam. 62.                                         2.
 
@@ -81,7 +79,6 @@ MKaas
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 R. Cam. (Resolutio Camerae) Die Kammer ist der Meinung, daß dem Krückeberg
    der kleine mit A auf der Zeichnung bemerkte Platz, etwa 1/2 Morgen,
@@ -94,7 +91,6 @@ T Landesberg
 ```
 
 ```{code-block} text
-:class: bordered
 
 Resolution of the Chamber. The Chamber is of the opinion that the small
 parcel marked with A on the drawing, about 1/2 Morgen, should be granted to
@@ -117,7 +113,6 @@ T Landesberg
 ## Transliteration and Translatin
 
 ```{code-block} text
-:class: bordered
 
 ad 2.
 
@@ -137,7 +132,6 @@ Falckmann
 ```
 
 ```{code-block} text
-:class: bordered
 
 ad 2 [pertaining to document 2]
 

@@ -9,7 +9,6 @@
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 Unterthänigste Bitte
 des Neubauers Vogt in
@@ -26,7 +25,6 @@ Fürstliche Rentkammer
 ```
 
 ```{code-block} text
-:class: bordered
 
 Most humble petition
 of the Neubauer Vogt in Nordholz
@@ -59,7 +57,6 @@ Princely Rent Chamber
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 N. 237                                        10.)
 
@@ -116,7 +113,6 @@ Adb. Weissich pr. Gn
 ```
 
 ```{code-block} text
-:class: bordered
 
 No. 237                                                         10.)
 

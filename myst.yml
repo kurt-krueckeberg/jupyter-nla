@@ -152,7 +152,7 @@ project:
         - file: 139/petition-to-sell-his-holding-23-aug-1849.md
         - file: 139/sales-contract-for-no-10.md
 
-    - file: 689/contents-list.md
+    - file: 689/content.md
       title: Krückeberg no. 10 Chamber Loan (1841-1845)
       children: 
         - file: 689/intro.md

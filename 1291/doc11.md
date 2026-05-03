@@ -161,7 +161,6 @@ an Kammeral Prestanden
 ### Specification’s Transliteration
 
 ```{code-block} text
-:class: bordered
 
 ad 11
 
@@ -209,7 +208,6 @@ Specification von dreÿ Auswiesungen im Baumer Forste.
 ```
 
 ```{code-block} text
-:class: bordered
 
 Die obigen 3 Ausweisungen, wovon die Zeichnung hierneben beigefügt ist,
 sind im Baumer Forste, bei Nordholz, belegen.
@@ -221,7 +219,6 @@ L. Stille
 ## Translation
 
 ```{code-block} text
-:class: bordered
 
 No. 257 — 11.)
 
@@ -310,7 +307,6 @@ Kammeral dues table in text
 ### Specification’s Translation
 
 ```{code-block} text
-:class: bordered
 
 Regarding document 11
 
@@ -358,7 +354,6 @@ Specification of three land assignments in the Baumer Forest.
 ```
 
 ```{code-block} text
-:class: bordered
 
 The above three land assignments, the drawing of which is attached here,
 are situated in the Baumer Forest, near Nordholz.

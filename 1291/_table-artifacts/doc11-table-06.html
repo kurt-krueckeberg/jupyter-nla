@@ -1,11 +1,21 @@
-<table>
+<style>
+.no-zebra-rowspan-table tbody tr,
+.no-zebra-rowspan-table tbody tr:nth-child(odd),
+.no-zebra-rowspan-table tbody tr:nth-child(even),
+.no-zebra-rowspan-table tbody td,
+.no-zebra-rowspan-table tbody th {
+  background-color: transparent !important;
+}
+</style>
+<div class="pst-scrollable-table-container" tabindex="-1">
+<table class="table no-zebra-rowspan-table">
   <thead>
   <tr>
-    <th>Person</th>
-    <th>Description</th>
-    <th>rl</th>
-    <th>g</th>
-    <th>d</th>
+    <th class="head">Person</th>
+    <th class="head">Description</th>
+    <th class="head">rl</th>
+    <th class="head">g</th>
+    <th class="head">d</th>
   </tr>
   </thead>
   <tbody>
@@ -83,3 +93,4 @@ Nordholz for house and garden plot
   </tr>
   </tbody>
 </table>
+</div>

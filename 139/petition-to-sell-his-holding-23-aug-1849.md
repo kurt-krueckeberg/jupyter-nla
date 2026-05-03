@@ -19,7 +19,6 @@ internal processing and routing (including “Exp” for dispatch).
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 Stpl. 3 g.
 Best. 1
@@ -49,7 +48,6 @@ Exp Streck 23/8.
 ```
 
 ```{code-block} text
-:class: bordered
 
 Stamp: 3 groschen.
 

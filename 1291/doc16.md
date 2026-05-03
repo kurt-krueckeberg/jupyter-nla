@@ -16,10 +16,7 @@
 
 ## Transliteration and Translation
 
-TODO: Normalize the spelling.
-
 ```{code-block} text
-:class: bordered
 
 N. 392.              Tract: By in Can.     p. 16 Sept. 1818
                                                16.
@@ -76,7 +73,6 @@ MKaas
 ```
 
 ```{code-block} text
-:class: bordered
 
 To the Chamber
 [uncertain]

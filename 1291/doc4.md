@@ -9,7 +9,6 @@
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 An furstl. Rentkammer
 
@@ -35,7 +34,6 @@ Um Platz zum Hausbau
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 N. 520                                  4.
 
@@ -82,7 +80,6 @@ suppl Bbg
 ```
 
 ```{code-block} text
-:class: bordered
 
 No. 520             4
 

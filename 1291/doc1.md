@@ -12,7 +12,6 @@ The spelling, grammar and punctuation have been normalized in this
 transliteration.
 
 ```{code-block} text
-:class: bordered
 
 N. 67                                 1
 
@@ -49,7 +48,6 @@ Schuster Krückeberg
 ```
 
 ```{code-block} text
-:class: bordered
 
 No. 67                                   1
 

@@ -31,11 +31,10 @@ There is an important connection between **Johann Tönnies Eggerding** and
 **Johann Heinrich Krückeberg**. As shown below, not only was Johann Tönnies
 Eggerding the former resident at no. 10 Berenbusch, he was a baptismal
 sponsor of Johann Heinrich Krückeberg’s son, Johann Friedrich, who was born
-in 1728. See {external+genealogy:doc}`1728 Johann Friedrich Krückeberg Baptized <petzen/PET-B-1728a>`.
+in 1728. See [genealogy:petzen:PET-B-1728a.xml]({external+genealogy:doc}`petzen/PET-B-1728a`).
 ```
 
 ```{code-block} text
-:class: bordered
 
 Joh. Heinr. Kreutler modo Daniel Steding
 
@@ -57,7 +56,6 @@ change of **holder** for a numbered holding: **Former holder** → **now**
 → **current holder**. So the entry:
 
 ```{code-block} text
-:class: bordered
 
 Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
 ```
@@ -65,7 +63,6 @@ Joh. Tönnies Eggerding modo Joh. Heinr. Kruckeberg
 means:
 
 ```{code-block} text
-:class: bordered
 
 Johann Tönnies Eggerding, now Johann Heinrich Krückeberg.
 ```

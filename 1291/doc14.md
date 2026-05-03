@@ -51,7 +51,6 @@
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 [3 Gr. Stempel]                                  14.)
 Eingekomm: Cam d. 16 Feb 18
@@ -117,7 +116,6 @@ MKaas
 ```
 
 ```{code-block} text
-:class: bordered
 
 [3 Groschen stamp]                                  14.)
 Received by the Chamber on 16 Feb 1818

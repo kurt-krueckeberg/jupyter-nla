@@ -23,7 +23,6 @@ They are to inform Jobst Heinrich of these conditions and terms.
 ## Transliateration and Translation
 
 ```{code-block} text
-:class: bordered
 
 Ad N. 287.
 C. K. [Cammer-Kanzlei] Rescripts
@@ -68,7 +67,6 @@ reply to a petition or report.
 ```
 
 ```{code-block} text
-:class: bordered
 
 Re: No. 287.
 

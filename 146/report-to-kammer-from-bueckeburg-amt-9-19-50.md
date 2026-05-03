@@ -76,7 +76,6 @@ obligations attached to the property were listed correctly before approving
 its sale. It notes that **one fee was wrong** and that the others were correct.
 
 ```{code-block} text
-:class: bordered
 
 Nach der Höckersauer M. Rechnung Berenbusch muß von der Stätte Nr 18 in
 Berenbusch an Dienstgeld (insl: für 5 Erntetage)

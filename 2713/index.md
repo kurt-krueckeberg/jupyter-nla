@@ -45,7 +45,6 @@ TODO: Suggest an alternate translation for Farmyard.
 .Translation
 
 ```{code-block} text
-:class: bordered
 
 No. 10 (the house site)
 Johann Heinrich Krückeberg of Berenbusch

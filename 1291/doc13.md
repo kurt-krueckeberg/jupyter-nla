@@ -9,7 +9,6 @@
 ## Transliteration and Translation
 
 ```{code-block} text
-:class: bordered
 
 13.)
 
@@ -30,7 +29,6 @@ Bückeburg
 ```
 
 ```{code-block} text
-:class: bordered
 
 This is to certify that the colonist Vogt, no. 13 in Nordholz, has paid
 forty-nine Reichsthaler into the Princely Chamber Treasury for an assigned

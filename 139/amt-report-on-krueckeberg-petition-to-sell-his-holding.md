@@ -22,7 +22,6 @@ attached to the property is to be provided.
 ```
 
 ```{code-block} text
-:class: bordered
 
 N.C. 5399                             pr. m.C. 15/9 49
 
@@ -64,7 +63,6 @@ Barkhausen.
 ```
 
 ```{code-block} text
-:class: bordered
 
 N.C. 5399                             pr. m.C. 15 September 1849
 

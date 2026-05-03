@@ -39,7 +39,6 @@ Amt official Höcker.
 ```
 
 ```{code-block} text
-:class: bordered
 
 Abschrift.
 Stempel: 1 Gr.
@@ -98,7 +97,6 @@ Handzeichen + + + des Wilhelm
 ```
 
 ```{code-block} text
-:class: bordered
 
 Copy.
 Stamp: 1 Groschen.

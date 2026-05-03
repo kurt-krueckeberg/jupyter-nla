@@ -206,7 +206,6 @@ does not issue a new order; it simply records that the allotment stands in
 the implementation stage.
 
 ```{code-block} text
-:class: bordered
 
 Res. Cam. Nach
 die Ausweisung einer zu  bewirkfällige[n]
@@ -215,7 +214,6 @@ die Ausweisung einer zu  bewirkfällige[n]
 ```
 
 ```{code-block} text
-:class: bordered
 
 Chamber Resolution: Accordingly, the allotment is to be carried out.
 Bückeburg, 12 January 1818.

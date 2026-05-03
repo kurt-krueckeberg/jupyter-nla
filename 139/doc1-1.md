@@ -1,4 +1,4 @@
-# Actenstück 1 (Administrative File Item 1): Petition of the widow Krückeberg, holding No. 10 in Berenbusch (8 July 1824)
+# Petition of the widow Krückeberg, holding No. 10 in Berenbusch (8 July 1824)
 
 ## Overview
 
@@ -219,7 +219,7 @@ documents.”
 ### Summary of Last Three Documents
 
 This is the image of the last three documents (all on the same page) of the five related documents grouped as #1 in
-the [Designatio Actorum](contents-list.md) (the contents list). These are:
+the [Designatio Actorum](content.md) (the contents list). These are:
 
 1. **Rought draft (Concept) of the official reply (Rescript) to the widow Krückeberg**
 2. **Likewise: sealed (with the official seal) and signed by Schmöe, Kahlhuth and Creuzinger of Baum**.
