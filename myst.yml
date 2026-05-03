@@ -155,7 +155,6 @@ project:
     - file: 689/content.md
       title: Krückeberg no. 10 Chamber Loan (1841-1845)
       children: 
-        - file: 689/intro.md
         - file: 689/rentcammer-and-amt.md
         - file: 689/cover.md
         - file: 689/amt-decree.md
