@@ -1,9 +1,31 @@
 <style>
+.no-zebra-rowspan-table,
+.no-zebra-rowspan-table thead,
+.no-zebra-rowspan-table tbody,
+.no-zebra-rowspan-table tr,
+.no-zebra-rowspan-table tr:nth-child(odd),
+.no-zebra-rowspan-table tr:nth-child(even),
+.no-zebra-rowspan-table tr:hover,
+.no-zebra-rowspan-table tr:hover > th,
+.no-zebra-rowspan-table tr:hover > td,
 .no-zebra-rowspan-table tbody tr,
 .no-zebra-rowspan-table tbody tr:nth-child(odd),
 .no-zebra-rowspan-table tbody tr:nth-child(even),
+.no-zebra-rowspan-table tbody tr:hover,
+.no-zebra-rowspan-table tbody tr:hover > th,
+.no-zebra-rowspan-table tbody tr:hover > td,
+.no-zebra-rowspan-table th,
+.no-zebra-rowspan-table td,
+.no-zebra-rowspan-table tbody th,
 .no-zebra-rowspan-table tbody td,
-.no-zebra-rowspan-table tbody th {
+.no-zebra-rowspan-table.table-hover tbody tr:hover,
+.no-zebra-rowspan-table.table-hover tbody tr:hover > th,
+.no-zebra-rowspan-table.table-hover tbody tr:hover > td {
+  --bs-table-bg: transparent !important;
+  --bs-table-accent-bg: transparent !important;
+  --bs-table-hover-bg: transparent !important;
+  --bs-table-hover-color: inherit !important;
+  background: transparent !important;
   background-color: transparent !important;
 }
 </style>
@@ -23,7 +45,7 @@
   <tbody>
   <tr>
     <td><p>1.</p></td>
-    <td><p><a class="reference internal" href="doc1"><span class="std std-doc">Petition of the shoemaker Krückeberg No. 10 in Berenbusch.</span></a></p><p><a class="reference internal" href="doc1"><span class="std std-doc">Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc1.html"><span class="std std-doc">Petition of the shoemaker Krückeberg No. 10 in Berenbusch.</span></a></p><p><a class="reference internal" href="doc1.html"><span class="std std-doc">Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.</span></a></p></td>
     <td rowspan="11"><p>Allocation of forest land on the Söhre for Krückeberg No. 10 in Berenbusch, Vogt No. 13 in Nordholz, and Brüggemann No. 14 in Nordholz.</p><p>Ausweisungen vom Forstgrunde an der Söhre für Krückeberg No. 10. zu
 Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr:</p></td>
     <td><p>Berenbusch</p></td>
@@ -33,7 +55,7 @@ Berenbusch, Vogt N: 13. in Nordholz und Brüggemann No. 14 daselbst betr:</p></t
   </tr>
   <tr>
     <td><p>2.</p></td>
-    <td><p><a class="reference internal" href="doc2"><span class="std std-doc">Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.</span></a></p><p><a class="reference internal" href="doc2"><span class="std std-doc">Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann
+    <td><p><a class="reference internal" href="doc2.html"><span class="std std-doc">Report of the Forestry Department, together with the report of Chief Forester Falkmann regarding the timber, with drawing.</span></a></p><p><a class="reference internal" href="doc2.html"><span class="std std-doc">Vortrag des Forstdepartements, samt Bericht des Oberförsters Falkmann
 zum Baum mit Zeichnung.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1817</p></td>
@@ -42,7 +64,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>3.</p></td>
-    <td><p><a class="reference internal" href="doc3"><span class="std std-doc">Prepared official decision of the Princely Finance Office to the local office.</span></a></p><p><a class="reference internal" href="doc3"><span class="std std-doc">Conc. K. Rescript ans Amt dahier.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc3.html"><span class="std std-doc">Prepared official decision of the Princely Finance Office to the local office.</span></a></p><p><a class="reference internal" href="doc3.html"><span class="std std-doc">Conc. K. Rescript ans Amt dahier.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1817</p></td>
     <td><p>Febr.</p></td>
@@ -50,7 +72,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>4.</p></td>
-    <td><p><a class="reference internal" href="doc4"><span class="std std-doc">Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office.</span></a></p><p><a class="reference internal" href="doc4"><span class="std std-doc">Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:</span></a></p></td>
+    <td><p><a class="reference internal" href="doc4.html"><span class="std std-doc">Petition of the Einlieger (lodger) Vogt of Evesen, with the decision of the Princely Finance Office.</span></a></p><p><a class="reference internal" href="doc4.html"><span class="std std-doc">Vorstellung des Einliegers Vogt zu Evesen, cum Res: Cam:</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1817</p></td>
     <td><p>Novbr</p></td>
@@ -58,7 +80,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>5.</p></td>
-    <td><p><a class="reference internal" href="doc5"><span class="std std-doc">Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office.</span></a></p><p><a class="reference internal" href="doc5"><span class="std std-doc">desgl. vom Soldat Brüggemann von No. 1. zu Nordholz, cum Res. Cam.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc5.html"><span class="std std-doc">Likewise, petition of the soldier Brüggemann of No. 1 in Nordholz, with the decision of the Princely Finance Office.</span></a></p><p><a class="reference internal" href="doc5.html"><span class="std std-doc">desgl. vom Soldat Brüggemann von No. 1. zu Nordholz, cum Res. Cam.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1817</p></td>
     <td><p>Decbr.</p></td>
@@ -66,7 +88,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>6.</p></td>
-    <td><p><a class="reference internal" href="doc6"><span class="std std-doc">Report of the local office.</span></a></p><p><a class="reference internal" href="doc6"><span class="std std-doc">Bericht hiesigen Amts.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc6.html"><span class="std std-doc">Report of the local office.</span></a></p><p><a class="reference internal" href="doc6.html"><span class="std std-doc">Bericht hiesigen Amts.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1817</p></td>
     <td><p>Decbr</p></td>
@@ -74,7 +96,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>7.</p></td>
-    <td><p><a class="reference internal" href="doc7"><span class="std std-doc">Prepared official decision of the Princely Finance Office to the local office.</span></a></p><p><a class="reference internal" href="doc7"><span class="std std-doc">Conc. K. Rescript ans Amt dahier.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc7.html"><span class="std std-doc">Prepared official decision of the Princely Finance Office to the local office.</span></a></p><p><a class="reference internal" href="doc7.html"><span class="std std-doc">Conc. K. Rescript ans Amt dahier.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Jan</p></td>
@@ -82,7 +104,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>8.</p></td>
-    <td><p><a class="reference internal" href="doc8"><span class="std std-doc">Report of the local office, together with drawing.</span></a></p><p><a class="reference internal" href="doc8"><span class="std std-doc">Bericht hiesigen Amts, samt Zeichnung.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc8.html"><span class="std std-doc">Report of the local office, together with drawing.</span></a></p><p><a class="reference internal" href="doc8.html"><span class="std std-doc">Bericht hiesigen Amts, samt Zeichnung.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Febr.</p></td>
@@ -90,7 +112,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>9.</p></td>
-    <td><p><a class="reference internal" href="doc9"><span class="std std-doc">Prepared official decision of the Princely Finance Office, based on a submission from the local office.</span></a></p><p><a class="reference internal" href="doc9"><span class="std std-doc">Conc. K. Rescript aus hiesige[m</span></a> Amt.]</p></td>
+    <td><p><a class="reference internal" href="doc9.html"><span class="std std-doc">Prepared official decision of the Princely Finance Office, based on a submission from the local office.</span></a></p><p><a class="reference internal" href="doc9.html"><span class="std std-doc">Conc. K. Rescript aus hiesige[m</span></a> Amt.]</p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Febr.</p></td>
@@ -98,7 +120,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>10.</p></td>
-    <td><p><a class="reference internal" href="doc10"><span class="std std-doc">Petition of Vogt from Nordholz, together with drawing.</span></a></p><p><a class="reference internal" href="doc10"><span class="std std-doc">Vorstellung von Vogt aus Nordholz, samt Zeichnung.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc10.html"><span class="std std-doc">Petition of Vogt from Nordholz, together with drawing.</span></a></p><p><a class="reference internal" href="doc10.html"><span class="std std-doc">Vorstellung von Vogt aus Nordholz, samt Zeichnung.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Maÿ.</p></td>
@@ -106,7 +128,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>11.</p></td>
-    <td><p><a class="reference internal" href="doc11"><span class="std std-doc">Report of the local office, together with drawing and specification.</span></a></p><p><a class="reference internal" href="doc11"><span class="std std-doc">Bericht hiesigen Amts, samt Zeichnung mit Specification.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc11.html"><span class="std std-doc">Report of the local office, together with drawing and specification.</span></a></p><p><a class="reference internal" href="doc11.html"><span class="std std-doc">Bericht hiesigen Amts, samt Zeichnung mit Specification.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Maÿ.</p></td>
@@ -114,7 +136,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>12.</p></td>
-    <td><p><a class="reference internal" href="doc12"><span class="std std-doc">Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.</span></a></p><p><a class="reference internal" href="doc12"><span class="std std-doc">Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc12.html"><span class="std std-doc">Prepared official decision of the Princely Finance Office to the local office, likewise to the Treasury.</span></a></p><p><a class="reference internal" href="doc12.html"><span class="std std-doc">Conc. K. Rescript ans Amt dahier desgl. an die Kammercasse.</span></a></p></td>
     <td></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
@@ -123,7 +145,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>13.</p></td>
-    <td><p><a class="reference internal" href="doc13"><span class="std std-doc">Treasury receipt.</span></a></p><p><a class="reference internal" href="doc13"><span class="std std-doc">Kammercassenquittung.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc13.html"><span class="std std-doc">Treasury receipt.</span></a></p><p><a class="reference internal" href="doc13.html"><span class="std std-doc">Kammercassenquittung.</span></a></p></td>
     <td></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
@@ -132,7 +154,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>14.</p></td>
-    <td><p><a class="reference internal" href="doc14"><span class="std std-doc">Petition of the new settler Brüggemann No. 14 in Nordholz.</span></a></p><p><a class="reference internal" href="doc14"><span class="std std-doc">Vorstellung des Neubauers Brüggemann No 14. in Nordholz.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc14.html"><span class="std std-doc">Petition of the new settler Brüggemann No. 14 in Nordholz.</span></a></p><p><a class="reference internal" href="doc14.html"><span class="std std-doc">Vorstellung des Neubauers Brüggemann No 14. in Nordholz.</span></a></p></td>
     <td></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
@@ -141,7 +163,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>15.</p></td>
-    <td><p><a class="reference internal" href="doc15"><span class="std std-doc">Prepared official decision of the Princely Finance Office addressed to the aforementioned.</span></a></p><p><a class="reference internal" href="doc15"><span class="std std-doc">Conc. K. Resolution an Vorhin genannten.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc15.html"><span class="std std-doc">Prepared official decision of the Princely Finance Office addressed to the aforementioned.</span></a></p><p><a class="reference internal" href="doc15.html"><span class="std std-doc">Conc. K. Resolution an Vorhin genannten.</span></a></p></td>
     <td></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
@@ -150,7 +172,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>16.</p></td>
-    <td><p><a class="reference internal" href="doc16"><span class="std std-doc">Petition of the shoemaker Krückeberg No. 10 in Berenbusch.</span></a></p><p><a class="reference internal" href="doc16"><span class="std std-doc">Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc16.html"><span class="std std-doc">Petition of the shoemaker Krückeberg No. 10 in Berenbusch.</span></a></p><p><a class="reference internal" href="doc16.html"><span class="std std-doc">Vorstellung des Schusters Krückeberg No. 10. zu Berenbusch.</span></a></p></td>
     <td rowspan="2"><p>Concerning the remission of the purchase price that had been deducted.</p><p>Erlaß des Kaufpreises, so abgeschlagen betr:</p></td>
     <td><p>Berenbusch</p></td>
     <td><p>1818</p></td>
@@ -159,7 +181,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>17.</p></td>
-    <td><p><a class="reference internal" href="doc17"><span class="std std-doc">Prepared official decision of the Princely Finance Office addressed to the same.</span></a></p><p><a class="reference internal" href="doc17"><span class="std std-doc">Conc. K. Resolution an denselben</span></a></p></td>
+    <td><p><a class="reference internal" href="doc17.html"><span class="std std-doc">Prepared official decision of the Princely Finance Office addressed to the same.</span></a></p><p><a class="reference internal" href="doc17.html"><span class="std std-doc">Conc. K. Resolution an denselben</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Oct.</p></td>
@@ -167,7 +189,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>18.</p></td>
-    <td><p><a class="reference internal" href="doc18"><span class="std std-doc">Treasury receipt.</span></a></p><p><a class="reference internal" href="doc18"><span class="std std-doc">Kammercassenquittung</span></a></p></td>
+    <td><p><a class="reference internal" href="doc18.html"><span class="std std-doc">Treasury receipt.</span></a></p><p><a class="reference internal" href="doc18.html"><span class="std std-doc">Kammercassenquittung</span></a></p></td>
     <td rowspan="5"><p>Concerning the allocation of land.</p><p>Ausweisung betr:</p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
@@ -176,7 +198,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>19.</p></td>
-    <td><p><a class="reference internal" href="doc19"><span class="std std-doc">Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.</span></a></p><p><a class="reference internal" href="doc19"><span class="std std-doc">Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch</span></a></p></td>
+    <td><p><a class="reference internal" href="doc19.html"><span class="std std-doc">Prepared purchase contract for the Colon (tenant) Krückeberg No. 10 in Berenbusch.</span></a></p><p><a class="reference internal" href="doc19.html"><span class="std std-doc">Conc. Kaufcontracts für den Colon Krückeberg No. 10. zu Berenbusch</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Novbr</p></td>
@@ -184,7 +206,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>20.</p></td>
-    <td><p><a class="reference internal" href="doc20"><span class="std std-doc">Likewise, prepared purchase contract for the Neubauer (new settler) Vogt No. 13 in Nordholz.</span></a></p><p><a class="reference internal" href="doc20"><span class="std std-doc">desgl. für den Neubauer Vogt No 13. zu Nordholz.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc20.html"><span class="std std-doc">Likewise, prepared purchase contract for the Neubauer (new settler) Vogt No. 13 in Nordholz.</span></a></p><p><a class="reference internal" href="doc20.html"><span class="std std-doc">desgl. für den Neubauer Vogt No 13. zu Nordholz.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Novbr</p></td>
@@ -192,7 +214,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>21.</p></td>
-    <td><p><a class="reference internal" href="doc21"><span class="std std-doc">Treasury receipt.</span></a></p><p><a class="reference internal" href="doc21"><span class="std std-doc">Kammercassenquittung.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc21.html"><span class="std std-doc">Treasury receipt.</span></a></p><p><a class="reference internal" href="doc21.html"><span class="std std-doc">Kammercassenquittung.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Dec[?]</p></td>
@@ -200,7 +222,7 @@ zum Baum mit Zeichnung.</span></a></p></td>
   </tr>
   <tr>
     <td><p>22.</p></td>
-    <td><p><a class="reference internal" href="doc22"><span class="std std-doc">Prepared purchase contract for Brüggemann No. 14 in Nordholz.</span></a></p><p><a class="reference internal" href="doc22"><span class="std std-doc">Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.</span></a></p></td>
+    <td><p><a class="reference internal" href="doc22.html"><span class="std std-doc">Prepared purchase contract for Brüggemann No. 14 in Nordholz.</span></a></p><p><a class="reference internal" href="doc22.html"><span class="std std-doc">Conc. Kaufcontracts für Brüggemann No. 14. in Nordholz.</span></a></p></td>
     <td><p>Bburg</p></td>
     <td><p>1818</p></td>
     <td><p>Dec</p></td>
