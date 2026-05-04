@@ -1,0 +1,30 @@
+for module in \
+1237 \
+1291 \
+139 \
+140 \
+146 \
+147 \
+188 \
+2713 \
+2728 \
+2741 \
+354 \
+689 \
+rentkammer \
+ROOT
+do
+  find "$HOME/nla/modules/$module/pages" -type f -name '*.adoc' -print0 |
+    while IFS= read -r -d '' adoc; do
+      rel="${adoc#$HOME/nla/modules/$module/pages/}"
+      out="$HOME/jla/$module/${rel%.adoc}.md"
+
+      mkdir -p "$(dirname "$out")"
+
+      adoc2jb2 "$adoc" \
+        --modules-dir "$HOME/nla/modules" \
+        --components-file "$HOME/nla/components-file.yml" \
+        -o "$out"
+    done
+done
+
