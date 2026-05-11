@@ -1,4 +1,12 @@
-# Likewise: Sealed (with the official seal) and Signed by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
+# Likewise Offically Marked by Schmöe, Kahlhuth and Creuzinger of Baum (4 Aug. 1824)
+
+## Summary
+
+Copies of the same resolutions, the "Draft of the offical reply to the
+widow Krückeberg", were sent as official copies (“in extract” = "official
+copies") to the officials Schöe, Stahlhuth and Creuzinger. It was initialed
+by four clerks: Boiness, Winde, Sp. and Tamerlin; and sent out (expidiert)
+by Alvei, who mailed it (or logged its mailing).
 
 ## Images
 
@@ -13,7 +21,7 @@ Transliteration
 ```{code-block} text
 
 Conc. in extracten dem Gehülfsschreiber Schmöe dem Amte Bückeburg
-Verwalter Stahlhuth u[nd]. Oberförster Creuzinger [zu]  Baum.
+Verwalter Stahlhuth u[nd]. Oberförster Creuzinger [zu] Baum.
 
 Exp. Alveÿ
 
@@ -49,8 +57,8 @@ N.P. 602
 - **“in extract”** = “as official copies (extracts)”
 
 This means that copies of the same resolutions, the "Rough draft of the
-offical reply to the widow Krückeberg", were sent “in extract” to these
-officialsa, to Schöe, Stahlhuth and Creuzinger. It was initialed by four
+offical reply to the widow Krückeberg", were sent “in extract” to  the
+officials, to Schöe, Stahlhuth and Creuzinger. It was initialed by four
 clerks: Boiness, Winde, Sp. and Tamerlin; and sent out (expidiert) by
 Alvei, who mailed it (or logged its mailing).
 ```

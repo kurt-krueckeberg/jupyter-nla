@@ -2,10 +2,9 @@
 
 ## Summary
 
-The report of the Bückeburg local government office appears on the left
-side of the first page of the petition. The first page of the petition
-has been cropped in the image below so only the report from the Bückeberg
-office appears.
+The report of the Bückeburg local government office appears on the **left
+side of the first page** of the wide Krückeberg’s petition. The image below
+is merely the left side of the [first page](doc1-1/) of the widow Krückeberg’s petition.
 
 ## Image of Report from Bückeburg Office
 
@@ -85,8 +84,6 @@ had once bought from the Chamber.
 
 This is apparently a sort of "post-it" note reminder of what further to
 request in the Amt report.
-
-### Transliteration and Translation
 
 ```{image} images/03-left-side-of-page.png
 :class: image-override

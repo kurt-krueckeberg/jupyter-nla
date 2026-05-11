@@ -91,7 +91,7 @@ sent to the Bückeburg Office, instructing it to report on the case.
 The exact wording of that order and any enclosures (such as the Forestry
 Report) are not preserved; only this short reference and the Office’s subsequent
 **Report on the matter from the Bückeburg officials, dated.**, which is the
-second entry in the [table of contents](content.md).
+second entry in the [table of contents](content/).
 
 ## 5. The  “Report by the officials at Bückeburg on this matter.” (27 Feb. 1799)
 

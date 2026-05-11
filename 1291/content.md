@@ -1,10 +1,15 @@
-# Contents List
+# Allotment from forest land to the colonist Krückeberg No. 10 in Berenbusch, and to the lodgers Vogt and Brüggemann, for the establishment of the new Holdings Nos. 13 and 14 in Nordholz.
+
+## Case File Cover
+
+- [Case File Cover](cover/)
+
+## Table of Contents
 
 The **Designatio Actorum** is the table of contents for the Rentkammer case
 file. It lists its documents in the second column and their topics in the
 third column.
 
-## Digital Images
 
 ```{image} images/01-r.jpg
 :class: image-override

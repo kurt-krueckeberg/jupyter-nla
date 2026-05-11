@@ -4,18 +4,22 @@ These documents all date from September 1850 and concern the sale of the
 tenancy rights to Stätte no. 18 Berenbusch, which Carl Friedrich Krückeberg
 was selling in order to immigrate to America.
 
+- [Overview of Supplication to Sell no. 18 Berenbusch](overview-other-docs/)
+
+**TODO:** There are two dates in the first row?
+
 ```{list-table} Document concerning the sale of Kolonat of Stätte no. 18 Berenbusch
 :header-rows: 1
 
 * - Document Heading
   - Date
-* - [report-to-kammer-from-bueckeburg-amt-9-19-50.xml](report-to-kammer-from-bueckeburg-amt-9-19-50.md)
+* - [17 Sept. 1850: To the Princely Treasury Report from the Bückeburg Office, Re: Sale of the Krückeberg property No. 18 in Berenbusch](report-to-kammer-from-bueckeburg-amt-9-19-50/)
   - 19 Sept. 1850
-* - [report-to-kammer-from-bueckeburg-amt-9-26-50.xml](report-to-kammer-from-bueckeburg-amt-9-26-50.md)
+* - [26 Sept. 1850: To the Princely Treasury Report from the Bückeberg Office, Re: Sale of the Krückeberg site No. 18 in Berenbusch](report-to-kammer-from-bueckeburg-amt-9-26-50/)
   - 26 Sept. 1850
-* - [report-to-bueckeburg-amt-9-26-50.xml](report-to-bueckeburg-amt-9-26-50.md)
+* - [26 Sept. 1850: Report to the Bückeburg Office, Re: Sale of the Krückeberg site No. 18 in Berenbusch](report-to-bueckeburg-amt-9-26-50/)
   - 26 Sept. 1850
-* - [carl-fried-supplication-to-sell.xml](carl-fried-supplication-to-sell.md)
+* - [11 Sept. 1850: Carl Friedrich Krückeberg Supplication to Rentkammer Requesting Sale of his Holding no. 18 Berenbusch](carl-fried-supplication-to-sell/)
   - 11 Sept. 1850
 ```
 

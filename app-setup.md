@@ -44,7 +44,7 @@ For each subdomain running a JB2 app, create this:
 server {
     listen 80;
     listen [::]:80;
-    server_name docs.krueckeberg.org;
+    server_name nla.krueckeberg.org;
 
     # Keep your existing redirect
     location / {

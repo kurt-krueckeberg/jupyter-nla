@@ -1,11 +1,11 @@
-# Document 9: Draft of a Cameral decree addressed to this colonist Krückeberg
+# Draft of a Cameral decree addressed to this colonist Krückeberg
 
 ## Summary
 
 On December 7, 1809, Jobst Heinrich’s wife had [petitioned
-the Rentkammer](doc8.md) to allow two payments instead of one for the plot of ground
+the Rentkammer](doc8/) to allow two payments instead of one for the plot of ground
 the Rentkammer [had permitted to be alloted to Jobst
-Heinrich](doc7.md), where he could build a house, plant a garden of crops and
+Heinrich](doc7/), where he could build a house, plant a garden of crops and
 perhaps house a few animals.
 
 ```{note}

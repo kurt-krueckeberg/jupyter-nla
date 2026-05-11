@@ -1,4 +1,4 @@
-# Document 5: Report of the Bückeburg office together with an attached drawing
+# Report of the Bückeburg office together with an attached drawing
 
 ## Images
 
@@ -10,7 +10,9 @@
 :class: image-override
 ```
 
-[09 vert text](self)
+```{image} images/09-vert-text.png
+:class: image-override
+```
 
 ```{image} images/11.png
 :class: image-override

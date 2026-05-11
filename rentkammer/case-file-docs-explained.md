@@ -34,7 +34,7 @@ for example, the contents list has these two documents listed under entries #2 a
 
 For each number in column one of the contents list, the first document listed will have
 this number written in the upper right corner of the first page. This first document for
-**#2** in the able above is the [Bericht Amts Bückeburg](../689/amt-decree.md) (Report
+**#2** in the able above is the [Bericht Amts Bückeburg](../689/amt-decree/) (Report
 of the Bückeburg Office); in the upper right corner of its first page, **2** is written:
 
 ```{image} ../689/images/example-entry-num-on-doc.jpg
@@ -60,7 +60,7 @@ recording decisions and actions.
 
 A protocol number was assigned once when the case was formally undertaken by the Rentkammer. In the case involving
 Johann Heinrich Krückeberg request for a loan, **Nr pr: 1274** was written on the bottom of the first page of the of
-his Octoboer 2, 1841, [Petition](../689/doc1.md).  Every subsequent document in the case (reports, cover slips,
+his Octoboer 2, 1841, [Petition](../689/doc1/).  Every subsequent document in the case (reports, cover slips,
 rescripts, replies) still belonged to that protocol entry — but the number itself didn’t need to be re-written on
 every single sheet.  So, **“Nr pr. 1274”** is the umbrella identifier under which the whole Krückeberg loan matter
 was logged in the protocol book.
