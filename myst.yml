@@ -129,16 +129,10 @@ project:
 
   - title: Holding Berenbusch No. 10 (1824–1849)
     children:
-    - file: 139/content.md
+    - file: 147/content.md
       children:
-        - file: 139/cover.md
-        - file: 139/timeline.md
-        - file: 139/doc1-1.md
-        - file: 139/doc1-2.md
-        - file: 139/doc1-3.md
-        - file: 139/doc1-4.md
-        - file: 139/doc1-5.md
-        - file: 139/doc2.md
+        - file: 147/cover.md
+        - file: 147/doc5.md
 
   - title: Sale of Berenbusch No. 10 (1849)
     children:
