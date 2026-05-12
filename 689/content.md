@@ -1,8 +1,4 @@
-# A capital sum of 200 Reichsthaler courant loaned from the chamber treasury to the colonist Krückeberg No. 10 in Berenbusch (1841-1845)
-
-- [Case File Cover](cover/)
-
-## Contents List
+# Contents List
 
 The number in the first column of the contents list designates a cluster of related documents in which one aspect
 of the overall decision making process is under consideration. The 2nd column describes each document, the third
@@ -12,7 +8,7 @@ column is a note on the subject of the doucment(s); lastly comes the place, year
 :class: image-override
 ```
 
-## Transliteration
+## Designation Actorum
 
 The first column represents a **procedural unit /docket item (Actenpunkt)**.
 Each Actenpunkt corresponds to **one administrative step in the handling of
@@ -22,9 +18,7 @@ the matter.**, and that step may generate one document or several (petition
 **Note:** The column “Z.” denotes the sequential registry number within the
 stated month, not the day of the month.
 
-Transliteration
-
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
+Merged transliteration and translation
 
 ```{include} _table-artifacts/content-table-01.html
 ```
@@ -48,18 +42,4 @@ corner number and may not be physically in the case file anymore.  *That’s why
 boxed number in the case file.*
 
 :::
-
-## English Version
-
-Again, the first column represents a **procedural unit /docket item (Actenpunkt)**.
-Each Actenpunkt corresponds to **one administrative step in the handling of
-the matter.**, and that step may generate one document or several (petition
-→ report → resolution → rescript, etc.).
-
-Translation (corrected)
-
-<!-- Raw HTML table included because the original AsciiDoc table contains row or column spans that MyST list-table cannot represent. -->
-
-```{include} _table-artifacts/content-table-02.html
-```
 
