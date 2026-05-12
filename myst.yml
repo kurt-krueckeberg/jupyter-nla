@@ -127,13 +127,6 @@ project:
       - file: 147/cover.md
       - file: 147/doc5.md
 
-  - title: Holding Berenbusch No. 10 (1824–1849)
-    children:
-    - file: 147/content.md
-      children:
-        - file: 147/cover.md
-        - file: 147/doc5.md
-
   - title: Sale of Berenbusch No. 10 (1849)
     children:
       - file: 139/krueckeberg-petition-to-sell.md
