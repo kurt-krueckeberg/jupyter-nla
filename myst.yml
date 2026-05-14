@@ -14,6 +14,8 @@ project:
   github: https://github.com/kurt-krueckeberg/jupyter-nla
   # To autogenerate a table of contents, run "jupyter book init --write-toc"
   title: Archival Documents
+  references:
+    # genealogy: https://gen.krueckeberg.org
   toc:
   - file: ROOT/index.md
 
